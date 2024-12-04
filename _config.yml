@@ -6,9 +6,9 @@ logo: /assets/img/headshot_circle.png
 #  [LinkedIn](https://www.linkedin.com/in/jacob-christopher-834a02239/) | 
 #  [Email](mailto:csk4sr@virginia.edu)
 description: >
-  <a href="https://scholar.google.com/citations?user=z_PoUQAAAAJ&hl=en" target="_blank">Google Scholar</a> |
-  <a href="https://www.linkedin.com/in/jacob-christopher-834a02239/" target="_blank">LinkedIn</a> |
-  <a href="mailto:csk4sr@virginia.edu">Email</a>
+  <a href="https://scholar.google.com/citations?user=z_PoUQAAAAJ&hl=en" target="_blank">[Google Scholar]</a> |
+  <a href="https://www.linkedin.com/in/jacob-christopher-834a02239/" target="_blank">[LinkedIn]</a> |
+  <a href="mailto:csk4sr@virginia.edu">[Email]</a>
 show_download: false
 favicon: /assets/img/favicon-32x32.png
 remote_theme: pages-themes/minimal@v0.2.0
