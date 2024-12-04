@@ -44,12 +44,12 @@ University of Virginia
 
 - **Physics-Aware Diffusion Models for Micro-structure Material Design**  
   *Jacob K. Christopher*, Stephen Baek, Ferdinando Fioretto    
-  <small><strong><mark>**Spotlight at AI4Mat Workshop @ NeurIPS 2024** </strong></mark></small>  
+  <small>***Spotlight at AI4Mat Workshop @ NeurIPS 2024***</small>  
   [[paper]](https://openreview.net/pdf?id=l13UI4nvGz) [[poster]](https://neurips.cc/virtual/2024/poster/103734)  
 
 - **Speculative Diffusion Decoding for Accelerated Language Generation**  
   *Jacob K. Christopher*, Brian R. Bartoldson, Tal Ben-Nun, Michael Cardei, Bhavya Kailkhura, Ferdinando Fioretto  
-  <small>**ENLSP Workshop @ NeurIPS 2024;** <strong><mark>**Best Paper Award at UVA LLM Workshop** </strong></mark>** </small>  
+  <small>**ENLSP Workshop @ NeurIPS 2024; *Best Paper Award at UVA LLM Workshop*** </small>  
   [[paper]](https://neurips2024-enlsp.github.io/papers/paper_68.pdf) [[poster]](https://neurips.cc/virtual/2024/poster/106484) 
 
 ### Preprints
