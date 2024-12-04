@@ -28,7 +28,7 @@ University of Virginia
 - **Constrained Synthesis with Projected Diffusion Models**  
   *Jacob K. Christopher*, Stephen Baek, Ferdinando Fioretto  
   **NeurIPS 2024**  
-  [[paper]](https://arxiv.org/abs/2402.03559)  
+  [[paper]](https://arxiv.org/abs/2402.03559) [[video]](https://neurips.cc/virtual/2024/poster/95942)  
 
 - **Learning Joint Models of Prediction and Optimization**  
   James Kotary, Vincenzo Di Vito Francesco, *Jacob K. Christopher*, Pascal Van Hentenryck, Ferdinando Fioretto  
@@ -50,7 +50,7 @@ University of Virginia
 - **Speculative Diffusion Decoding for Accelerated Language Generation**  
   *Jacob K. Christopher*, Brian R. Bartoldson, Tal Ben-Nun, Michael Cardei, Bhavya Kailkhura, Ferdinando Fioretto  
   <small>**ENLSP Workshop @ NeurIPS 2024** </small>  
-  [[paper]](https://neurips2024-enlsp.github.io/papers/paper_68.pdf) 
+  [[paper]](https://neurips2024-enlsp.github.io/papers/paper_68.pdf) [[video]](https://neurips.cc/virtual/2024/poster/106484) 
 
 ### Preprints
 
@@ -67,32 +67,32 @@ University of Virginia
 ## Experience
 
 **Department of Computer Science, University of Virginia**  
-*Graduate Research Assistant*
+*Graduate Research Assistant*  
 *Aug 2023 - Present*  
 - **Mentor:** Dr. Ferdinando Fioretto  
 - **Focus Areas:** Generative AI, Responsible AI, Differentiable Optimization  
 
-**Lawrence Livermore National Laboratory**
-*Data Science Institute*
+**Lawrence Livermore National Laboratory**  
+*Data Science Institute*  
 *May 2024 - Aug 2024*  
 - **Mentors:** Dr. Bhavya Kailkhura, Dr. Brian R. Bartoldson  
 - Collaborated on *discrete diffusion models* to enhance natural language generation with a focus on responsible AI.  
 
 **Department of Computer Science, Syracuse University**  
-*Graduate Research Assistant*
+*Graduate Research Assistant*  
 *Jan 2023 - July 2023*  
 - **Mentor:** Dr. Ferdinando Fioretto  
 - **Focus Areas:** Differentiable Optimization, Responsible AI  
 
 **Solü Technology Partners**  
-*Software Engineer Co-op*
+*Software Engineer Co-op*  
 *Aug 2021 - May 2022*  
 - Developed a web-based survey delivery application with a SCRUM team.  
 - Designed and implemented a comprehensive API test suite in Python.  
 - Tools used: Angular, HTML5, Kotlin, MongoDB, AWS.  
 
 **BorgWarner**  
-*Software Developer*
+*Software Developer*  
 *Nov 2020 - Jan 2021*  
 - Created a product tracking GUI for an automotive manufacturing plant.  
 - Tools used: ASP.NET Core, SQL Server, JavaScript.  
