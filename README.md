@@ -40,17 +40,17 @@ University of Virginia
 
 - **Constrained Synthesis with Projected Diffusion Models**  
   *Jacob K. Christopher*, Stephen Baek, Ferdinando Fioretto  
-  **ML4Molecules Workshop @ ELLIS 2024; ML4PS Workshop NeurIPS 2024@**  
+  <small>**ML4Molecules Workshop @ ELLIS 2024; ML4PS Workshop @ NeurIPS 2024** </small>
   [[paper]](https://arxiv.org/abs/2402.03559) 
 
 - **Physics-Aware Diffusion Models for Micro-structure Material Design**  
   *Jacob K. Christopher*, Stephen Baek, Ferdinando Fioretto    
-  **Spotlight at AI4Mat Workshop @ NeurIPS 2024**  
+  <small>**Spotlight at AI4Mat Workshop @ NeurIPS 2024** </small>
   [[paper]](https://openreview.net/pdf?id=l13UI4nvGz)  
 
 - **Speculative Diffusion Decoding for Accelerated Language Generation**  
   *Jacob K. Christopher*, Brian R. Bartoldson, Tal Ben-Nun, Michael Cardei, Bhavya Kailkhura, Ferdinando Fioretto  
-  **ENLSP Workshop @ NeurIPS 2024**  
+  <small>**ENLSP Workshop @ NeurIPS 2024** </small>
   [[paper]](https://neurips2024-enlsp.github.io/papers/paper_68.pdf) 
 
 ### Preprints
