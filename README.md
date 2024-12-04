@@ -22,41 +22,6 @@ University of Virginia
 
 ---
 
-## Experience
-
-### **Graduate Research Assistant**  
-**Department of Computer Science, University of Virginia**  
-*Aug 2023 - Present*  
-- **Mentor:** Dr. Ferdinando Fioretto  
-- **Focus Areas:** Generative AI, Responsible AI, Differentiable Optimization  
-
-### **Data Science Institute Fellow**  
-**Lawrence Livermore National Laboratory**  
-*May 2024 - Aug 2024*  
-- **Mentors:** Dr. Bhavya Kailkhura, Dr. Brian R. Bartoldson  
-- Collaborated on *discrete diffusion models* to enhance natural language generation with a focus on responsible AI.  
-
-### **Graduate Research Assistant**  
-**Department of Computer Science, Syracuse University**  
-*Jan 2023 - July 2023*  
-- **Mentor:** Dr. Ferdinando Fioretto  
-- **Focus Areas:** Differentiable Optimization, Responsible AI  
-
-### **Software Engineer Co-op**  
-**Solü Technology Partners**  
-*Aug 2021 - May 2022*  
-- Developed a web-based survey delivery application with a SCRUM team.  
-- Designed and implemented a comprehensive API test suite in Python.  
-- Tools used: Angular, HTML5, Kotlin, MongoDB, AWS.  
-
-### **Software Developer**  
-**BorgWarner**  
-*Nov 2020 - Jan 2021*  
-- Created a product tracking GUI for an automotive manufacturing plant.  
-- Tools used: ASP.NET Core, SQL Server, JavaScript.  
-
----
-
 ## Publications
 
 ### Conference Publications
@@ -87,6 +52,41 @@ University of Virginia
 - **Analyzing and Enhancing the Backward-Pass Convergence of Unrolled Optimization**  
   James Kotary, *Jacob K. Christopher*, My H. Dinh, Ferdinando Fioretto  
   [arXiv:2312.17394](https://arxiv.org/abs/2312.17394)  
+
+---
+
+## Experience
+
+**Department of Computer Science, University of Virginia**  
+*Graduate Research Assistant*
+*Aug 2023 - Present*  
+- **Mentor:** Dr. Ferdinando Fioretto  
+- **Focus Areas:** Generative AI, Responsible AI, Differentiable Optimization  
+
+**Lawrence Livermore National Laboratory**
+*Data Science Institute*
+*May 2024 - Aug 2024*  
+- **Mentors:** Dr. Bhavya Kailkhura, Dr. Brian R. Bartoldson  
+- Collaborated on *discrete diffusion models* to enhance natural language generation with a focus on responsible AI.  
+
+**Department of Computer Science, Syracuse University**  
+*Graduate Research Assistant*
+*Jan 2023 - July 2023*  
+- **Mentor:** Dr. Ferdinando Fioretto  
+- **Focus Areas:** Differentiable Optimization, Responsible AI  
+
+**Solü Technology Partners**  
+*Software Engineer Co-op*
+*Aug 2021 - May 2022*  
+- Developed a web-based survey delivery application with a SCRUM team.  
+- Designed and implemented a comprehensive API test suite in Python.  
+- Tools used: Angular, HTML5, Kotlin, MongoDB, AWS.  
+
+**BorgWarner**  
+*Software Developer*
+*Nov 2020 - Jan 2021*  
+- Created a product tracking GUI for an automotive manufacturing plant.  
+- Tools used: ASP.NET Core, SQL Server, JavaScript.  
 
 ---
 
