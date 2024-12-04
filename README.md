@@ -1,6 +1,5 @@
 **Ph.D. Student in Computer Science**  
 University of Virginia  
-[LinkedIn](https://www.linkedin.com/in/jacob-christopher-834a02239/) | [Email](mailto:csk4sr@virginia.edu)
 
 **Focus Areas:** Generative AI, Responsible AI, Differentiable Optimization  
 
