@@ -1,11 +1,11 @@
 # Site Metadata
 title: Jacob Christopher
 logo: /assets/img/headshot_circle.png
-description: >
-  [Google Scholar](https://scholar.google.com/citations?user=z_PoUQAAAAJ&hl=en) | 
-  [LinkedIn](https://www.linkedin.com/in/jacob-christopher-834a02239/) | 
-  [Email](mailto:csk4sr@virginia.edu)
-show_download: true
+#description: >
+#  [Google Scholar](https://scholar.google.com/citations?user=z_PoUQAAAAJ&hl=en) | 
+#  [LinkedIn](https://www.linkedin.com/in/jacob-christopher-834a02239/) | 
+#  [Email](mailto:csk4sr@virginia.edu)
+show_download: false
 favicon: /assets/img/favicon-32x32.png
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
