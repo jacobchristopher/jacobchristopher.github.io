@@ -29,29 +29,39 @@ University of Virginia
 - **Constrained Synthesis with Projected Diffusion Models**  
   *Jacob K. Christopher*, Stephen Baek, Ferdinando Fioretto  
   **NeurIPS 2024**  
-  [arXiv:2402.03559](https://arxiv.org/abs/2402.03559)  
+  [[paper]](https://arxiv.org/abs/2402.03559)  
 
 - **Learning Joint Models of Prediction and Optimization**  
   James Kotary, Vincenzo Di Vito Francesco, *Jacob K. Christopher*, Pascal Van Hentenryck, Ferdinando Fioretto  
   **ECAI 2024**  
-  [arXiv:2409.04898](https://arxiv.org/abs/2409.04898)  
+  [[paper]](https://arxiv.org/abs/2409.04898)  
 
 ### Workshop Publications
+
+- **Constrained Synthesis with Projected Diffusion Models**  
+  *Jacob K. Christopher*, Stephen Baek, Ferdinando Fioretto  
+  **ML4Molecules Workshop @ ELLIS 2024; ML4PS Workshop NeurIPS 2024@**  
+  [[paper]](https://arxiv.org/abs/2402.03559) 
+
+- **Physics-Aware Diffusion Models for Micro-structure Material Design**  
+  *Jacob K. Christopher*, Stephen Baek, Ferdinando Fioretto    
+  **Spotlight at AI4Mat Workshop @ NeurIPS 2024**  
+  [[paper]](https://openreview.net/pdf?id=l13UI4nvGz)  
 
 - **Speculative Diffusion Decoding for Accelerated Language Generation**  
   *Jacob K. Christopher*, Brian R. Bartoldson, Tal Ben-Nun, Michael Cardei, Bhavya Kailkhura, Ferdinando Fioretto  
   **ENLSP Workshop @ NeurIPS 2024**  
-  [arXiv:2408.05636](https://arxiv.org/abs/2408.05636)  
+  [[paper]](https://neurips2024-enlsp.github.io/papers/paper_68.pdf) 
 
 ### Preprints
 
 - **Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion**  
   *Jacob K. Christopher*, Brian R. Bartoldson, Tal Ben-Nun, Michael Cardei, Bhavya Kailkhura, Ferdinando Fioretto  
-  [arXiv:2408.05636](https://arxiv.org/abs/2408.05636)  
+  [[paper]](https://arxiv.org/abs/2408.05636)  
 
 - **Analyzing and Enhancing the Backward-Pass Convergence of Unrolled Optimization**  
   James Kotary, *Jacob K. Christopher*, My H. Dinh, Ferdinando Fioretto  
-  [arXiv:2312.17394](https://arxiv.org/abs/2312.17394)  
+  [[paper]](https://arxiv.org/abs/2312.17394)  [[code]](https://github.com/fold-opt/fold-opt/tree/main)
 
 ---
 
