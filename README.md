@@ -7,19 +7,19 @@ University of Virginia
 
 ## Education
 
-- **University of Virginia**
+- **University of Virginia**  
   *Aug 2023 - Present*  
   Ph.D. in Computer Science   
   Charlottesville, Virginia  
 
-- **Syracuse University**
+- **Syracuse University**  
   *Aug 2022 - July 2023*  
   Ph.D. Track Master of Science   
   Syracuse, New York  
 
-- **Gordon College**
-  *Aug 2019 - May 2022*
-  Bachelor of Science in Computer Science   
+- **Gordon College**  
+  *Aug 2019 - May 2022*  
+  B.S. in Computer Science   
   Wenham, Massachusetts  
 
 ---
