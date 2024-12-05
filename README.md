@@ -31,7 +31,7 @@ University of Virginia
 - **Constrained Synthesis with Projected Diffusion Models**  
   *Jacob K. Christopher*, Stephen Baek, Ferdinando Fioretto  
   **NeurIPS 2024**  
-  [[paper]](https://arxiv.org/abs/2402.03559) [[poster]](https://neurips.cc/virtual/2024/poster/95942)  
+  [[paper]](https://arxiv.org/abs/2402.03559) [[code]](https://github.com/RAISELab-atUVA/Projected-Diffusion) [[poster]](https://neurips.cc/virtual/2024/poster/95942)  
 
 - **Learning Joint Models of Prediction and Optimization**  
   James Kotary, Vincenzo Di Vito Francesco, *Jacob K. Christopher*, Pascal Van Hentenryck, Ferdinando Fioretto  
