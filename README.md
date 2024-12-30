@@ -59,8 +59,12 @@ University of Virginia
 
 - **Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion**  
   *Jacob K. Christopher*, Brian R. Bartoldson, Tal Ben-Nun, Michael Cardei, Bhavya Kailkhura, Ferdinando Fioretto  
-  [[paper]](https://arxiv.org/abs/2408.05636)  
-
+  [[paper]](https://arxiv.org/abs/2408.05636)
+  
+- **Multi-Agent Path Finding in Continuous Spaces with Projected Diffusion Models**  
+  Jinhao Liang, *Jacob K. Christopher*, Sven Koenig, Ferdinando Fioretto  
+  [[paper]](https://arxiv.org/abs/2412.17993)
+  
 - **Analyzing and Enhancing the Backward-Pass Convergence of Unrolled Optimization**  
   James Kotary, *Jacob K. Christopher*, My H. Dinh, Ferdinando Fioretto  
   [[paper]](https://arxiv.org/abs/2312.17394)  [[code]](https://github.com/fold-opt/fold-opt/tree/main)
