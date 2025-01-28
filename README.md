@@ -29,7 +29,7 @@ University of Virginia
 ### Conference Publications
 
 - **Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion**  
-  *Jacob K. Christopher*, Brian R. Bartoldson, Tal Ben-Nun, Michael Cardei, Bhavya Kailkhura, Ferdinando Fioretto
+  *Jacob K. Christopher*, Brian R. Bartoldson, Tal Ben-Nun, Michael Cardei, Bhavya Kailkhura, Ferdinando Fioretto  
   **NAACL 2025**  
   [[paper]](https://arxiv.org/abs/2408.05636)
 
