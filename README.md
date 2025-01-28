@@ -28,6 +28,11 @@ University of Virginia
 
 ### Conference Publications
 
+- **Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion**  
+  *Jacob K. Christopher*, Brian R. Bartoldson, Tal Ben-Nun, Michael Cardei, Bhavya Kailkhura, Ferdinando Fioretto
+  **NAACL 2025**  
+  [[paper]](https://arxiv.org/abs/2408.05636)
+
 - **Constrained Synthesis with Projected Diffusion Models**  
   *Jacob K. Christopher*, Stephen Baek, Ferdinando Fioretto  
   **NeurIPS 2024**  
@@ -39,6 +44,11 @@ University of Virginia
   [[paper]](https://arxiv.org/abs/2409.04898)  
 
 ### Workshop Publications
+
+- **Multi-Agent Path Finding in Continuous Spaces with Projected Diffusion Models**  
+  Jinhao Liang, *Jacob K. Christopher*, Sven Koenig, Ferdinando Fioretto
+  <small>**The 6th International Workshop on Multi-Agent Path Finding; AAAI-25 Bridge: AI+ORMS**</small> 
+  [[paper]](https://arxiv.org/abs/2412.17993)
 
 - **Constrained Synthesis with Projected Diffusion Models**  
   *Jacob K. Christopher*, Stephen Baek, Ferdinando Fioretto  
@@ -56,14 +66,6 @@ University of Virginia
   [[paper]](https://neurips2024-enlsp.github.io/papers/paper_68.pdf) [[poster]](https://neurips.cc/virtual/2024/poster/106484) 
 
 ### Preprints
-
-- **Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion**  
-  *Jacob K. Christopher*, Brian R. Bartoldson, Tal Ben-Nun, Michael Cardei, Bhavya Kailkhura, Ferdinando Fioretto  
-  [[paper]](https://arxiv.org/abs/2408.05636)
-  
-- **Multi-Agent Path Finding in Continuous Spaces with Projected Diffusion Models**  
-  Jinhao Liang, *Jacob K. Christopher*, Sven Koenig, Ferdinando Fioretto  
-  [[paper]](https://arxiv.org/abs/2412.17993)
   
 - **Analyzing and Enhancing the Backward-Pass Convergence of Unrolled Optimization**  
   James Kotary, *Jacob K. Christopher*, My H. Dinh, Ferdinando Fioretto  
