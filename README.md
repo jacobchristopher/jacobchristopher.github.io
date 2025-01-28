@@ -46,8 +46,8 @@ University of Virginia
 ### Workshop Publications
 
 - **Multi-Agent Path Finding in Continuous Spaces with Projected Diffusion Models**  
-  Jinhao Liang, *Jacob K. Christopher*, Sven Koenig, Ferdinando Fioretto
-  <small>**The 6th International Workshop on Multi-Agent Path Finding; AAAI-25 Bridge: AI+ORMS**</small> 
+  Jinhao Liang, *Jacob K. Christopher*, Sven Koenig, Ferdinando Fioretto  
+  <small>**The 6th International Workshop on Multi-Agent Path Finding; AAAI-25 Bridge: AI+ORMS**</small>  
   [[paper]](https://arxiv.org/abs/2412.17993)
 
 - **Constrained Synthesis with Projected Diffusion Models**  
