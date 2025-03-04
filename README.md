@@ -69,17 +69,14 @@ University of Virginia
 
 - **Training-Free Constrained Generation With Stable Diffusion Models**  
   Stefano Zampini⋆, *Jacob K. Christopher⋆*, Luca Oneto, Tal Ben-Nun, Davide Anguita, Ferdinando Fioretto  
-  **2025**  
   [[paper]](https://arxiv.org/abs/2502.05625)
 
 - **Simultaneous Multi-Robot Motion Planning with Projected Diffusion Models**  
   Jinhao Liang, *Jacob K. Christopher*, Sven Koenig, Ferdinando Fioretto  
-  **2025**  
   [[paper]](https://arxiv.org/abs/2502.03607)
 
 - **Analyzing and Enhancing the Backward-Pass Convergence of Unrolled Optimization**  
   James Kotary, *Jacob K. Christopher*, My H. Dinh, Ferdinando Fioretto  
-  **2023**  
   [[paper]](https://arxiv.org/abs/2312.17394) [[code]](https://github.com/fold-opt/fold-opt/tree/main)
 
 ---
@@ -138,23 +135,12 @@ University of Virginia
 
 ## Invited Talks
 
-- **Speculative Diffusion Decoding**  
-  Invited talk at the Machine Intelligence Neural Design (MIND) group, Apple
+- **Invited Talk: Speculative Diffusion Decoding**  
+  Machine Intelligence Neural Design (MIND) group, Apple
 
-- **Physics-Aware Diffusion Models for Micro-structure Design**  
-  Invited talk at the AI for Accelerated Material Design Workshop, NeurIPS 2024
-
----
-
-## Teaching
-
-- **Introduction to Discrete Math**  
-  Syracuse University, *Fall 2022, Spring 2023*
+- **Invited Talk: Physics-Aware Diffusion Models for Micro-structure Design**  
+  AI for Accelerated Material Design Workshop, NeurIPS 2024
 
 ---
 
-## Volunteering and Organizing
 
-- **Reading Group on Responsible Generative AI**  
-  University of Virginia, *Oct 2023 - Present*  
-  Co-Organizer, Charlottesville, Virginia
