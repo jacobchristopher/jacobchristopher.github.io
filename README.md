@@ -9,17 +9,17 @@ University of Virginia
 
 - **University of Virginia**  
   *Aug 2023 - Present*  
-  Ph.D. in Computer Science   
+  Ph.D. in Computer Science  
   Charlottesville, Virginia  
 
 - **Syracuse University**  
   *Aug 2022 - July 2023*  
-  Ph.D. Track Master of Science   
+  Ph.D. Track Master of Science  
   Syracuse, New York  
 
 - **Gordon College**  
   *Aug 2019 - May 2022*  
-  B.S. in Computer Science   
+  B.S. in Computer Science  
   Wenham, Massachusetts  
 
 ---
@@ -36,40 +36,51 @@ University of Virginia
 - **Constrained Synthesis with Projected Diffusion Models**  
   *Jacob K. Christopher*, Stephen Baek, Ferdinando Fioretto  
   **NeurIPS 2024**  
-  [[paper]](https://arxiv.org/abs/2402.03559) [[code]](https://github.com/RAISELab-atUVA/Projected-Diffusion) [[poster]](https://neurips.cc/virtual/2024/poster/95942)  
+  [[paper]](https://arxiv.org/abs/2402.03559) [[code]](https://github.com/RAISELab-atUVA/Projected-Diffusion) [[poster]](https://neurips.cc/virtual/2024/poster/95942)
 
 - **Learning Joint Models of Prediction and Optimization**  
   James Kotary, Vincenzo Di Vito Francesco, *Jacob K. Christopher*, Pascal Van Hentenryck, Ferdinando Fioretto  
   **ECAI 2024**  
-  [[paper]](https://arxiv.org/abs/2409.04898)  
+  [[paper]](https://arxiv.org/abs/2409.04898)
 
 ### Workshop Publications
 
 - **Multi-Agent Path Finding in Continuous Spaces with Projected Diffusion Models**  
   Jinhao Liang, *Jacob K. Christopher*, Sven Koenig, Ferdinando Fioretto  
-  <small>**The 6th International Workshop on Multi-Agent Path Finding; AAAI-25 Bridge: AI+ORMS**</small>  
+  <small>**Oral @ The 6th International Workshop on Multi-Agent Path Finding (AAAI 2025); Oral @ AAAI-25 Bridge: AI+ORMS (AAAI 2025)**</small>  
   [[paper]](https://arxiv.org/abs/2412.17993)
-
-- **Constrained Synthesis with Projected Diffusion Models**  
-  *Jacob K. Christopher*, Stephen Baek, Ferdinando Fioretto  
-  <small>**ML4Molecules Workshop @ ELLIS 2024; ML4PS Workshop @ NeurIPS 2024** </small>  
-  [[paper]](https://arxiv.org/abs/2402.03559) [[code]](https://github.com/RAISELab-atUVA/Projected-Diffusion) [[poster]](https://neurips.cc/virtual/2024/poster/100112) 
-
-- **Physics-Aware Diffusion Models for Micro-structure Material Design**  
-  *Jacob K. Christopher*, Stephen Baek, Ferdinando Fioretto    
-  <small>***Spotlight at AI4Mat Workshop @ NeurIPS 2024***</small>  
-  [[paper]](https://openreview.net/pdf?id=l13UI4nvGz) [[code]](https://github.com/RAISELab-atUVA/Projected-Diffusion) [[poster]](https://neurips.cc/virtual/2024/poster/103734)  
 
 - **Speculative Diffusion Decoding for Accelerated Language Generation**  
   *Jacob K. Christopher*, Brian R. Bartoldson, Tal Ben-Nun, Michael Cardei, Bhavya Kailkhura, Ferdinando Fioretto  
-  <small>**ENLSP Workshop @ NeurIPS 2024; *Best Paper Award at UVA LLM Workshop*** </small>  
-  [[paper]](https://neurips2024-enlsp.github.io/papers/paper_68.pdf) [[poster]](https://neurips.cc/virtual/2024/poster/106484) 
+  <small>**ENLSP Workshop @ NeurIPS 2024; Best Paper Award at UVA LLM Workshop 2024**</small>  
+  [[paper]](https://neurips2024-enlsp.github.io/papers/paper_68.pdf) [[poster]](https://neurips.cc/virtual/2024/poster/106484)
+
+- **Constrained Synthesis with Projected Diffusion Models**  
+  *Jacob K. Christopher*, Stephen Baek, Ferdinando Fioretto  
+  <small>**ML4Molecules Workshop @ ELLIS 2024; ML4PS Workshop @ NeurIPS 2024**</small>  
+  [[paper]](https://arxiv.org/abs/2402.03559) [[code]](https://github.com/RAISELab-atUVA/Projected-Diffusion) [[poster]](https://neurips.cc/virtual/2024/poster/100112)
+
+- **Physics-Aware Diffusion Models for Micro-structure Material Design**  
+  *Jacob K. Christopher*, Stephen Baek, Ferdinando Fioretto  
+  <small>***Spotlight @ AI4Mat Workshop @ NeurIPS 2024***</small>  
+  [[paper]](https://openreview.net/pdf?id=l13UI4nvGz) [[code]](https://github.com/RAISELab-atUVA/Projected-Diffusion) [[poster]](https://neurips.cc/virtual/2024/poster/103734)
 
 ### Preprints
-  
+
+- **Training-Free Constrained Generation With Stable Diffusion Models**  
+  Stefano Zampini⋆, *Jacob K. Christopher⋆*, Luca Oneto, Tal Ben-Nun, Davide Anguita, Ferdinando Fioretto  
+  **2025**  
+  [[paper]](https://arxiv.org/abs/2502.05625)
+
+- **Simultaneous Multi-Robot Motion Planning with Projected Diffusion Models**  
+  Jinhao Liang, *Jacob K. Christopher*, Sven Koenig, Ferdinando Fioretto  
+  **2025**  
+  [[paper]](https://arxiv.org/abs/2502.03607)
+
 - **Analyzing and Enhancing the Backward-Pass Convergence of Unrolled Optimization**  
   James Kotary, *Jacob K. Christopher*, My H. Dinh, Ferdinando Fioretto  
-  [[paper]](https://arxiv.org/abs/2312.17394)  [[code]](https://github.com/fold-opt/fold-opt/tree/main)
+  **2023**  
+  [[paper]](https://arxiv.org/abs/2312.17394) [[code]](https://github.com/fold-opt/fold-opt/tree/main)
 
 ---
 
@@ -85,18 +96,19 @@ University of Virginia
 *Data Science Institute*  
 *May 2024 - Aug 2024*  
 - **Mentors:** Dr. Bhavya Kailkhura, Dr. Brian R. Bartoldson  
-- Collaborated on *discrete diffusion models* to enhance natural language generation with a focus on responsible AI.  
+- Collaborated on discrete diffusion models to enhance natural language generation with a focus on responsible generative AI.  
+- Location: Livermore, California  
 
 **Department of Computer Science, Syracuse University**  
 *Graduate Research Assistant*  
 *Jan 2023 - July 2023*  
 - **Mentor:** Dr. Ferdinando Fioretto  
-- **Focus Areas:** Differentiable Optimization, Responsible AI  
+- **Focus Areas:** Generative AI, Responsible AI, Differentiable Optimization  
 
 **Solü Technology Partners**  
 *Software Engineer Co-op*  
 *Aug 2021 - May 2022*  
-- Developed a web-based survey delivery application with a SCRUM team.  
+- Developed a web-based survey delivery application as part of a SCRUM team.  
 - Designed and implemented a comprehensive API test suite in Python.  
 - Tools used: Angular, HTML5, Kotlin, MongoDB, AWS.  
 
@@ -110,28 +122,39 @@ University of Virginia
 
 ## Selected Honors and Achievements
 
-- **Best Paper at UVA LLM Workshop 2024**  
-  *Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion*  
+- **Oral @ The 6th International Workshop on Multi-Agent Path Finding (AAAI 2025)**  
+  *Multi-Agent Path Finding in Continuous Spaces with Projected Diffusion Models*
 
-- **Spotlight Presentation at AI4Mat @ NeurIPS 2024**  
-  *Constrained Synthesis with Projected Diffusion Models*  
+- **Oral @ AAAI-25 Bridge: AI+ORMS (AAAI 2025)**  
+  *Multi-Agent Path Finding in Continuous Spaces with Projected Diffusion Models*
 
-- Selected for **Data Science Summer Institute** at Lawrence Livermore National Laboratory.  
-- **Magna Cum Laude** and Global Honors Program, Gordon College.  
+- **Spotlight @ AI for Accelerated Material Design Workshop (NeurIPS 2024)**  
+  *Constrained Synthesis with Projected Diffusion Models*
+
+- **Best Paper @ UVA LLM Workshop 2024**  
+  *Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion*
+
+---
+
+## Invited Talks
+
+- **Speculative Diffusion Decoding**  
+  Invited talk at the Machine Intelligence Neural Design (MIND) group, Apple
+
+- **Physics-Aware Diffusion Models for Micro-structure Design**  
+  Invited talk at the AI for Accelerated Material Design Workshop, NeurIPS 2024
 
 ---
 
 ## Teaching
 
 - **Introduction to Discrete Math**  
-  Syracuse University, *Fall 2022, Spring 2023*  
+  Syracuse University, *Fall 2022, Spring 2023*
 
 ---
 
-## Service and Reviewing
+## Volunteering and Organizing
 
-- **Reviewer**  
-  ICML 2024, ENLSP Workshop @ NeurIPS 2024  
-
-- **Program Committee Member**  
-  AAAI 2024  
+- **Reading Group on Responsible Generative AI**  
+  University of Virginia, *Oct 2023 - Present*  
+  Co-Organizer, Charlottesville, Virginia
