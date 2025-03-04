@@ -135,10 +135,10 @@ University of Virginia
 
 ## Invited Talks
 
-- **Invited Talk: Speculative Diffusion Decoding**  
+- **Speculative Diffusion Decoding**  
   Machine Intelligence Neural Design (MIND) group, Apple
 
-- **Invited Talk: Physics-Aware Diffusion Models for Micro-structure Design**  
+- **Physics-Aware Diffusion Models for Micro-structure Design**  
   AI for Accelerated Material Design Workshop, NeurIPS 2024
 
 ---
