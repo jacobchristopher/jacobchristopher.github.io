@@ -52,17 +52,17 @@ University of Virginia
 
 - **Speculative Diffusion Decoding for Accelerated Language Generation**  
   *Jacob K. Christopher*, Brian R. Bartoldson, Tal Ben-Nun, Michael Cardei, Bhavya Kailkhura, Ferdinando Fioretto  
-  <small>**ENLSP Workshop @ NeurIPS 2024; Best Paper Award at UVA LLM Workshop 2024**</small>  
+  <small>**ENLSP Workshop (NeurIPS 2024)**</small>  
   [[paper]](https://neurips2024-enlsp.github.io/papers/paper_68.pdf) [[poster]](https://neurips.cc/virtual/2024/poster/106484)
 
 - **Constrained Synthesis with Projected Diffusion Models**  
   *Jacob K. Christopher*, Stephen Baek, Ferdinando Fioretto  
-  <small>**ML4Molecules Workshop @ ELLIS 2024; ML4PS Workshop @ NeurIPS 2024**</small>  
+  <small>**ML4Molecules Workshop (ELLIS 2024); ML4PS Workshop (NeurIPS 2024)**</small>  
   [[paper]](https://arxiv.org/abs/2402.03559) [[code]](https://github.com/RAISELab-atUVA/Projected-Diffusion) [[poster]](https://neurips.cc/virtual/2024/poster/100112)
 
 - **Physics-Aware Diffusion Models for Micro-structure Material Design**  
   *Jacob K. Christopher*, Stephen Baek, Ferdinando Fioretto  
-  <small>***Spotlight @ AI4Mat Workshop @ NeurIPS 2024***</small>  
+  <small>***Spotlight @ AI4Mat Workshop (NeurIPS 2024)***</small>  
   [[paper]](https://openreview.net/pdf?id=l13UI4nvGz) [[code]](https://github.com/RAISELab-atUVA/Projected-Diffusion) [[poster]](https://neurips.cc/virtual/2024/poster/103734)
 
 ### Preprints
@@ -128,7 +128,7 @@ University of Virginia
 - **Spotlight @ AI for Accelerated Material Design Workshop (NeurIPS 2024)**  
   *Constrained Synthesis with Projected Diffusion Models*
 
-- **Best Paper @ UVA LLM Workshop 2024**  
+- **Best Paper @ UVA LLM Workshop (Univeristy of Virginia 2024)**  
   *Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion*
 
 ---
