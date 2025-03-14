@@ -67,8 +67,12 @@ University of Virginia
 
 ### Preprints
 
+- **Constrained Language Generation with Discrete Diffusion Models**  
+  $\text{Michael Cardei}^\star$, $\textit{Jacob K. Christopher}^\star$, Thomas Hartvigsen, Brian R. Bartoldson, Bhavya Kailkhura, Ferdinando Fioretto  
+  [[paper]](https://arxiv.org/abs/2503.09790)
+
 - **Training-Free Constrained Generation With Stable Diffusion Models**  
-  Stefano Zampini⋆, *Jacob K. Christopher⋆*, Luca Oneto, Tal Ben-Nun, Davide Anguita, Ferdinando Fioretto  
+  $\text{Stefano Zampini}^\star$, $\textit{Jacob K. Christopher}^\star$, Luca Oneto, Tal Ben-Nun, Davide Anguita, Ferdinando Fioretto  
   [[paper]](https://arxiv.org/abs/2502.05625)
 
 - **Simultaneous Multi-Robot Motion Planning with Projected Diffusion Models**  
@@ -94,7 +98,6 @@ University of Virginia
 *May 2024 - Aug 2024*  
 - **Mentors:** Dr. Bhavya Kailkhura, Dr. Brian R. Bartoldson  
 - Collaborated on discrete diffusion models to enhance natural language generation with a focus on responsible generative AI.  
-- Location: Livermore, California  
 
 **Department of Computer Science, Syracuse University**  
 *Graduate Research Assistant*  
