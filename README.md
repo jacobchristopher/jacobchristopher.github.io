@@ -68,11 +68,11 @@ University of Virginia
 ### Preprints
 
 - **Constrained Language Generation with Discrete Diffusion Models**  
-  $\text{Michael Cardei}^\star$, $\textit{Jacob K. Christopher}^\star$, Thomas Hartvigsen, Brian R. Bartoldson, Bhavya Kailkhura, Ferdinando Fioretto  
+  Michael Cardei<sup>*</sup>, *Jacob K. Christopher*<sup>*</sup>, Thomas Hartvigsen, Brian R. Bartoldson, Bhavya Kailkhura, Ferdinando Fioretto  
   [[paper]](https://arxiv.org/abs/2503.09790)
 
 - **Training-Free Constrained Generation With Stable Diffusion Models**  
-  $\text{Stefano Zampini}^\star$, $\textit{Jacob K. Christopher}^\star$, Luca Oneto, Tal Ben-Nun, Davide Anguita, Ferdinando Fioretto  
+  Stefano Zampini<sup>*</sup>, *Jacob K. Christopher*<sup>*</sup>, Luca Oneto, Tal Ben-Nun, Davide Anguita, Ferdinando Fioretto  
   [[paper]](https://arxiv.org/abs/2502.05625)
 
 - **Simultaneous Multi-Robot Motion Planning with Projected Diffusion Models**  
