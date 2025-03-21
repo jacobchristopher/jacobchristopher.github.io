@@ -45,9 +45,5 @@ title: Home
             <h3>December 2024</h3>
             <p>Paper accepted for oral presentation at two AAAI 2025 workshops: <a href="https://arxiv.org/abs/2412.17993" target="_blank">"Multi-Agent Path Finding in Continuous Spaces with Projected Diffusion Models"</a></p>
         </div>
-        <div class="update-item">
-            <h3>Summer 2024</h3>
-            <p>Starting internship at Data Science Institute</p>
-        </div>
     </div>
 </div> 
