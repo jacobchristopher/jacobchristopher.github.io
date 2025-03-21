@@ -18,15 +18,15 @@ title: Home
 
 <div class="section">
     <h2 class="section-title">About Me</h2>
-    <p>I am a Ph.D. student in Computer Science at the University of Virginia, working under the guidance of Dr. Ferdinando Fioretto. My research focuses on developing innovative approaches in generative AI, responsible AI, and differentiable optimization. I'm particularly interested in creating compliant AI systems that for scientific and engineering applications.</p>
+    <p>I am a Ph.D. student in Computer Science at the <strong>University of Virginia</strong>, working under the guidance of Dr. Ferdinando Fioretto. My research focuses on developing innovative approaches in generative AI, responsible AI, and differentiable optimization. I'm particularly interested in creating compliant AI systems for scientific and engineering applications.</p>
 </div>
 
 <div class="section">
     <h2 class="section-title">Research Interests</h2>
     <ul>
-        <li><strong>Generative AI:</strong> Developing novel approaches for constrained generation and diffusion models</li>
-        <li><strong>Responsible AI:</strong> Ensuring AI systems are ethical, transparent, and aligned with human values</li>
-        <li><strong>Differentiable Optimization:</strong> Bridging the gap between machine learning and mathematical optimization</li>
+        <li><strong>Generative AI:</strong> Developing novel approaches for constrained generation and diffusion models, enabling applications in real-world, safety-critical domains.</li>
+        <li><strong>Responsible AI:</strong> Ensuring AI systems are ethical, transparent, and aligned with human values by providing formal guarantees as to compliance with these values.</li>
+        <li><strong>Differentiable Optimization:</strong> Bridging the gap between machine learning and mathematical optimization with fundamental approaches.</li>
     </ul>
 </div>
 
