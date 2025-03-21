@@ -18,7 +18,7 @@ title: Home
 
 <div class="section">
     <h2 class="section-title">About Me</h2>
-    <p>I am a Ph.D. student in Computer Science at the University of Virginia, working under the guidance of Dr. Ferdinando Fioretto. My research focuses on developing innovative approaches in generative AI, responsible AI, and differentiable optimization. I'm particularly interested in creating AI systems that are both powerful and ethically sound.</p>
+    <p>I am a Ph.D. student in Computer Science at the University of Virginia, working under the guidance of Dr. Ferdinando Fioretto. My research focuses on developing innovative approaches in generative AI, responsible AI, and differentiable optimization. I'm particularly interested in creating compliant AI systems that for scientific and engineering applications.</p>
 </div>
 
 <div class="section">
@@ -38,12 +38,12 @@ title: Home
             <p>Paper accepted to NAACL 2025: <a href="https://arxiv.org/abs/2408.05636" target="_blank">"Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion"</a></p>
         </div>
         <div class="update-item">
-            <h3>October 2024</h3>
-            <p>Paper accepted to NeurIPS 2024: <a href="https://arxiv.org/abs/2402.03559" target="_blank">"Constrained Synthesis with Projected Diffusion Models"</a></p>
-        </div>
-        <div class="update-item">
             <h3>December 2024</h3>
             <p>Paper accepted for oral presentation at two AAAI 2025 workshops: <a href="https://arxiv.org/abs/2412.17993" target="_blank">"Multi-Agent Path Finding in Continuous Spaces with Projected Diffusion Models"</a></p>
+        </div>
+        <div class="update-item">
+            <h3>October 2024</h3>
+            <p>Paper accepted to NeurIPS 2024: <a href="https://arxiv.org/abs/2402.03559" target="_blank">"Constrained Synthesis with Projected Diffusion Models"</a></p>
         </div>
     </div>
 </div> 
