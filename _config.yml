@@ -6,16 +6,22 @@ logo: /assets/img/headshot_circle.png
 #  [LinkedIn](https://www.linkedin.com/in/jacob-christopher-834a02239/) | 
 #  [Email](mailto:csk4sr@virginia.edu)
 description: >
-  <a href="https://scholar.google.com/citations?user=z_PoUQAAAAJ&hl=en" target="_blank">[Google Scholar]</a> |
-  <a href="https://www.linkedin.com/in/jacob-christopher-834a02239/" target="_blank">[LinkedIn]</a> |
-  <a href="/assets/resume.pdf" target="_blank">[CV]</a>
+  Ph.D. Student in Computer Science at the University of Virginia
+  Focus Areas: Generative AI, Responsible AI, Differentiable Optimization
 show_download: false
 favicon: /assets/img/favicon-32x32.png
-remote_theme: pages-themes/minimal@v0.2.0
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-remote-theme
 
-# Social Links Section
+# Site settings
+baseurl: ""
+url: "https://jacobchristopher.github.io"
+
+# Social Links
 social_links:
   - name: Google Scholar
     url: https://scholar.google.com/citations?user=z_PoUQAAAAJ&hl=en
@@ -23,3 +29,15 @@ social_links:
   - name: LinkedIn
     url: https://www.linkedin.com/in/jacob-christopher-834a02239/
     icon: fa-linkedin
+  - name: Email
+    url: mailto:csk4sr@virginia.edu
+    icon: fa-envelope
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Publications
+    url: /publications
+  - title: CV
+    url: /cv
