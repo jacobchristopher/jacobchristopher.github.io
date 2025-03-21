@@ -11,7 +11,7 @@ title: Home
             <p class="focus">Focus: Generative AI, Responsible AI, Differentiable Optimization</p>
         </div>
         <div class="hero-image">
-            <img src="assets/images/headshot.jpg" alt="Jacob Christopher" class="headshot">
+            <img src="assets/img/headshot_circle.png" alt="Jacob Christopher" class="headshot">
         </div>
     </div>
 </div>
