@@ -10,6 +10,7 @@ title: Publications
             <div class="publication-title">Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion</div>
             <div class="publication-authors"><span class="highlight">Jacob K. Christopher</span>, Brian R. Bartoldson, Tal Ben-Nun, Michael Cardei, Bhavya Kailkhura, Ferdinando Fioretto</div>
             <div class="publication-venue">NAACL 2025</div>
+            <div class="publication-award">ORAL</div>
             <div class="publication-links">
                 <a href="https://arxiv.org/abs/2408.05636" target="_blank">Paper</a>
             </div>
