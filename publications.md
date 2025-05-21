@@ -73,7 +73,7 @@ title: Publications
           <div class="publication-title">Physics-Aware Diffusion Models for Micro-structure Material Design</div>
           <div class="publication-authors"><span class="highlight">Jacob K. Christopher</span>, Stephen Baek, Ferdinando Fioretto</div>
           <div class="publication-venue">AI for Accelerated Material Design Workshop (NeurIPS 2024)</div>
-          <div class="publication-award">SPOTLIGHT</div>
+          <div class="publication-award">ORAL</div>
           <div class="publication-links">
               <a href="https://openreview.net/pdf?id=l13UI4nvGz" target="_blank">Paper</a>
               <span class="separator">|</span>
