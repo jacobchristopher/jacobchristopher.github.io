@@ -34,16 +34,24 @@ title: Home
     <h2 class="section-title">Latest Updates</h2>
     <div class="updates">
         <div class="update-item">
-            <h3>February 2025</h3>
-            <p>Paper accepted to NAACL 2025: <a href="https://arxiv.org/abs/2408.05636" target="_blank">"Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion"</a></p>
+            <h3>May 2025</h3>
+            <p>Paper accepted to ICML 2025: <a href="https://arxiv.org/pdf/2502.03607" target="_blank">"Simultaneous Multi-Robot Motion Planning with Projected Diffusion Models"</a></p>
+        </div>
+        <div class="update-item">
+            <h3>May 2025</h3>
+            <p><b>DARPA Disruptive Idea Award</b> recipient at NeuS 2025: "Neuro-Symbolic Generative Diffusion Models for Physically Grounded, Robust, and Safe Generation"</p>
+        </div>
+        <div class="update-item">
+            <h3>April 2025</h3>
+            <p>Oral presentation at NAACL 2025: <a href="https://arxiv.org/abs/2408.05636" target="_blank">"Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion"</a></p>
+        </div>
+        <div class="update-item">
+            <h3>February 2024</h3>
+            <p>Oral presentations at two AAAI 2025 workshops: <a href="https://arxiv.org/abs/2412.17993" target="_blank">"Multi-Agent Path Finding in Continuous Spaces with Projected Diffusion Models"</a></p>
         </div>
         <div class="update-item">
             <h3>December 2024</h3>
-            <p>Paper accepted for oral presentation at two AAAI 2025 workshops: <a href="https://arxiv.org/abs/2412.17993" target="_blank">"Multi-Agent Path Finding in Continuous Spaces with Projected Diffusion Models"</a></p>
-        </div>
-        <div class="update-item">
-            <h3>October 2024</h3>
-            <p>Paper accepted to NeurIPS 2024: <a href="https://arxiv.org/abs/2402.03559" target="_blank">"Constrained Synthesis with Projected Diffusion Models"</a></p>
+            <p>Paper at NeurIPS 2024: <a href="https://arxiv.org/abs/2402.03559" target="_blank">"Constrained Synthesis with Projected Diffusion Models"</a></p>
         </div>
     </div>
 </div> 
