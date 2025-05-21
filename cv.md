@@ -89,12 +89,8 @@ title: CV
     <h2 class="section-title">Selected Honors and Achievements</h2>
     <div class="cv-section">
         <ul class="cv-details">
-            <li><strong>Oral @ The 6th International Workshop on Multi-Agent Path Finding (AAAI 2025)</strong><br>
-                Multi-Agent Path Finding in Continuous Spaces with Projected Diffusion Models</li>
-            <li><strong>Oral @ AAAI-25 Bridge: AI+ORMS (AAAI 2025)</strong><br>
-                Multi-Agent Path Finding in Continuous Spaces with Projected Diffusion Models</li>
-            <li><strong>Spotlight @ AI for Accelerated Material Design Workshop (NeurIPS 2024)</strong><br>
-                Constrained Synthesis with Projected Diffusion Models</li>
+            <li><strong>DARPA Disruptive Idea Award (NeuS 2025)</strong><br>
+                Neuro-symbolic Generative Diffusion Models for Physically Grounded, Robust, and Safe Generation</li>
             <li><strong>Best Paper @ UVA LLM Workshop (University of Virginia 2024)</strong><br>
                 Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion</li>
         </ul>
