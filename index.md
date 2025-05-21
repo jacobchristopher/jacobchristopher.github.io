@@ -35,7 +35,7 @@ title: Home
     <div class="updates">
         <div class="update-item">
             <h3>May 2025</h3>
-            <p>Happy to share that our paper was accepted to ICML 2025: <a href="https://arxiv.org/pdf/2502.03607" target="_blank">"Simultaneous Multi-Robot Motion Planning with Projected Diffusion Models"</a></p>
+            <p>Happy to share that our paper was accepted to ICML 2025: <a href="https://arxiv.org/abs/2502.03607" target="_blank">"Simultaneous Multi-Robot Motion Planning with Projected Diffusion Models"</a></p>
         </div>
         <div class="update-item">
             <h3>May 2025</h3>
