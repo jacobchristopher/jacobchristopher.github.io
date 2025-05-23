@@ -47,7 +47,7 @@ title: Home
         </div>
         <div class="update-item">
             <h3>February 2024</h3>
-            <p>Looking forward to two upcoming oral presentations of our work <a href="https://arxiv.org/abs/2412.17993" target="_blank">"Multi-Agent Path Finding in Continuous Spaces with Projected Diffusion Models"</a></p>
+            <p>Looking forward to two upcoming oral presentations of our work <a href="https://arxiv.org/abs/2412.17993" target="_blank">"Multi-Agent Path Finding in Continuous Spaces with Projected Diffusion Models" at AAAI 2025 workshops.</a></p>
         </div>
         <div class="update-item">
             <h3>December 2024</h3>
