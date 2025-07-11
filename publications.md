@@ -11,6 +11,9 @@ title: Publications
             <div class="publication-authors"><span class="highlight">Jacob K. Christopher</span>, Michael Cardei, Jinhao Liang, Ferdinando Fioretto</div>
             <div class="publication-venue">NeuS 2025</div>
             <div class="publication-award">ORAL</div>
+            <div class="publication-links">
+                <a href="https://arxiv.org/abs/2506.01121" target="_blank">Paper</a>
+            </div>
         </li>
         
         <li class="publication-item">
