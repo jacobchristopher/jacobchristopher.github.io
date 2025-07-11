@@ -7,7 +7,7 @@ title: Publications
     <h2 class="section-title">Conference Publications</h2>
     <ul class="publication-list">
         <li class="publication-item">
-            <div class="publication-title">Neuro-symbolic Generative Diffusion Models for Physically Grounded, Robust, and Safe Generation</div>
+            <div class="publication-title">Neuro-Symbolic Generative Diffusion Models for Physically Grounded, Robust, and Safe Generation</div>
             <div class="publication-authors"><span class="highlight">Jacob K. Christopher</span>, Michael Cardei, Jinhao Liang, Ferdinando Fioretto</div>
             <div class="publication-venue">NeuS 2025</div>
             <div class="publication-award">ORAL</div>
