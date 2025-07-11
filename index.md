@@ -39,7 +39,7 @@ title: Home
         </div>
         <div class="update-item">
             <h3>May 2025</h3>
-            <p>Exicted to announce that our submission "Neuro-Symbolic Generative Diffusion Models for Physically Grounded, Robust, and Safe Generation" is a recipient of the <b>DARPA Disruptive Idea Award</b> at NeuS 2025</p>
+            <p>Exicted to announce that our submission <a href="https://arxiv.org/abs/2506.01121" target="_blank">"Neuro-Symbolic Generative Diffusion Models for Physically Grounded, Robust, and Safe Generation"</a> is a recipient of the <b>DARPA Disruptive Idea Award</b> at NeuS 2025</p>
         </div>
         <div class="update-item">
             <h3>April 2025</h3>
