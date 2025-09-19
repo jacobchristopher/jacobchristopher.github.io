@@ -34,6 +34,10 @@ title: Home
     <h2 class="section-title">Latest Updates</h2>
     <div class="updates">
         <div class="update-item">
+            <h3>September 2025</h3>
+            <p>Two papers accepted at NeurIPS 2025: <a href="https://arxiv.org/abs/2502.05625v3" target="_blank">"Training-Free Constrained Generation With Stable Diffusion Models" <b>(spotlight)</b> and <a href="https://arxiv.org/abs/2503.09790" target="_blank">"Constrained Discrete Diffusion" </a></p>
+        </div>
+        <div class="update-item">
             <h3>May 2025</h3>
             <p>Happy to share that our paper was accepted to ICML 2025: <a href="https://arxiv.org/abs/2502.03607" target="_blank">"Simultaneous Multi-Robot Motion Planning with Projected Diffusion Models"</a></p>
         </div>
