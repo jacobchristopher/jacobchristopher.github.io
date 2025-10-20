@@ -137,6 +137,15 @@ title: Publications
     <h2 class="section-title">Preprints</h2>
     <ul class="publication-list">
         <li class="publication-item">
+            <div class="publication-title">Constrained Diffusion for Protein Design with Hard Structural Constraints</div>
+            <div class="publication-authors"><span class="highlight">Jacob K. Christopher</span>, Austin Seamann, Jingyi Cui, Sagar Khare, Ferdinando Fioretto</div>
+            <div class="publication-links">
+                <a href="https://arxiv.org/abs/2510.14989" target="_blank">Paper</a>
+            </div>
+        </li>
+    </ul>
+    <ul class="publication-list">
+        <li class="publication-item">
             <div class="publication-title">Analyzing and Enhancing the Backward-Pass Convergence of Unrolled Optimization</div>
             <div class="publication-authors">James Kotary, <span class="highlight">Jacob K. Christopher</span>, My H. Dinh, Ferdinando Fioretto</div>
             <div class="publication-links">
