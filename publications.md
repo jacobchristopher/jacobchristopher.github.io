@@ -13,6 +13,10 @@ title: Publications
             <div class="publication-award">Spotlight</div>
             <div class="publication-links">
                 <a href="https://arxiv.org/abs/2502.05625" target="_blank">Paper</a>
+                <span class="separator">|</span>
+                <a href="https://github.com/RAISELab-atUVA/Constrained-Stable-Diffusion" target="_blank">Code</a>
+                <span class="separator">|</span>
+                <a href="https://neurips.cc/virtual/2025/loc/san-diego/poster/117807" target="_blank">Poster</a>
             </div>
         </li>
 
@@ -22,6 +26,8 @@ title: Publications
             <div class="publication-venue">NeurIPS 2025</div>
             <div class="publication-links">
                 <a href="https://arxiv.org/abs/2503.09790" target="_blank">Paper</a>
+                <span class="separator">|</span>
+                <a href="https://neurips.cc/virtual/2025/loc/san-diego/poster/119091" target="_blank">Poster</a>
             </div>
         </li>
         
