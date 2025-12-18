@@ -69,7 +69,7 @@ title: CV
             <p class="cv-date">Jan 2023 - July 2023</p>
             <ul class="cv-details">
                 <li><strong>Mentor:</strong> Dr. Ferdinando Fioretto</li>
-                <li><strong>Initiated research directions in differentiable optimization, leading to the work established while at UVA.</li>
+                <li>Initiated research directions in differentiable optimization, leading to the work established while at UVA.</li>
             </ul>
         </div>
 
