@@ -35,6 +35,10 @@ title: Home
     <div class="updates">
         <div class="update-item">
             <h3>September 2025</h3>
+            <p>Honored to have recieved the <span class="highlight">Best Student Paper</span> at AI4D3 Workshop @ NeurIPS 2025: <a href="https://ai4d3.github.io/2025/papers/18_Constrained_Molecular_Gener.pdf" target="_blank">"Constrained Molecular Generation with Discrete Diffusion for Drug Discovery"</a></p>
+        </div>
+        <div class="update-item">
+            <h3>September 2025</h3>
             <p>Two papers accepted at NeurIPS 2025: <a href="https://arxiv.org/abs/2502.05625v3" target="_blank">"Training-Free Constrained Generation With Stable Diffusion Models"</a> <b>(spotlight)</b> and <a href="https://arxiv.org/abs/2503.09790" target="_blank">"Constrained Discrete Diffusion"</a></p>
         </div>
         <div class="update-item">
