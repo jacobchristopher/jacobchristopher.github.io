@@ -143,6 +143,15 @@ title: Publications
     <h2 class="section-title">Preprints</h2>
     <ul class="publication-list">
         <li class="publication-item">
+            <div class="publication-title">SpecDiff-2: Scaling Diffusion Drafter Alignment For Faster Speculative Decoding</div>
+            <div class="publication-authors"><span class="highlight">Jacob K. Christopher*</span>, Jameson Sandler*, Thomas Hartvigsen, Ferdinando Fioretto</div>
+            <div class="publication-links">
+                <a href="https://arxiv.org/abs/2511.00606" target="_blank">Paper</a>
+            </div>
+        </li>
+    </ul>
+    <ul class="publication-list">
+        <li class="publication-item">
             <div class="publication-title">Constrained Diffusion for Protein Design with Hard Structural Constraints</div>
             <div class="publication-authors"><span class="highlight">Jacob K. Christopher</span>, Austin Seamann, Jingyi Cui, Sagar Khare, Ferdinando Fioretto</div>
             <div class="publication-links">
