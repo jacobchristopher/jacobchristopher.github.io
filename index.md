@@ -34,6 +34,10 @@ title: Home
     <h2 class="section-title">Latest Updates</h2>
     <div class="updates">
         <div class="update-item">
+            <h3>January 2026</h3>
+            <p>Two accepted papers at ICLR 2026 and MLSys 2026: <a href="https://arxiv.org/pdf/2510.14989" target="_blank">"Constrained Diffusion for Protein Design with Hard Structural Constraints"</a> and <a href="https://arxiv.org/pdf/2511.00606" target="_blank">"SpecDiff-2: Scaling Diffusion Drafter Alignment For Faster Speculative Decoding"</a></p>
+        </div>
+        <div class="update-item">
             <h3>December 2025</h3>
             <p>Honored to have recieved the <span class="highlight">Best Student Paper</span> at AI4D3 Workshop @ NeurIPS 2025: <a href="https://ai4d3.github.io/2025/papers/18_Constrained_Molecular_Gener.pdf" target="_blank">"Constrained Molecular Generation with Discrete Diffusion for Drug Discovery"</a></p>
         </div>
