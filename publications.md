@@ -7,6 +7,24 @@ title: Publications
     <h2 class="section-title">Conference Publications</h2>
     <ul class="publication-list">
         <li class="publication-item">
+            <div class="publication-title">SpecDiff-2: Scaling Diffusion Drafter Alignment For Faster Speculative Decoding</div>
+            <div class="publication-authors"><span class="highlight">Jacob K. Christopher*</span>, Jameson Sandler*, Thomas Hartvigsen, Ferdinando Fioretto</div>
+            <div class="publication-venue">MLSys 2026</div>
+            <div class="publication-links">
+                <a href="https://arxiv.org/abs/2511.00606" target="_blank">Paper</a>
+                <span class="separator">|</span>
+                <a href="https://specdiff.github.io/" target="_blank">Blog</a>
+            </div>
+        </li>
+        <li class="publication-item">
+            <div class="publication-title">Constrained Diffusion for Protein Design with Hard Structural Constraints</div>
+            <div class="publication-authors"><span class="highlight">Jacob K. Christopher</span>, Austin Seamann, Jingyi Cui, Sagar Khare, Ferdinando Fioretto</div>
+            <div class="publication-venue">ICLR 2026</div>
+            <div class="publication-links">
+                <a href="https://arxiv.org/abs/2510.14989" target="_blank">Paper</a>
+            </div>
+        </li>
+        <li class="publication-item">
             <div class="publication-title">Training-Free Constrained Generation With Stable Diffusion Models</div>
             <div class="publication-authors"><span class="highlight">Jacob K. Christopher*</span>, Stefano Zampini*, Luca Oneto, Tal Ben-Nun, Davide Anguita, Ferdinando Fioretto</div>
             <div class="publication-venue">NeurIPS 2025</div>
@@ -141,24 +159,6 @@ title: Publications
 
 <div class="section">
     <h2 class="section-title">Preprints</h2>
-    <ul class="publication-list">
-        <li class="publication-item">
-            <div class="publication-title">SpecDiff-2: Scaling Diffusion Drafter Alignment For Faster Speculative Decoding</div>
-            <div class="publication-authors"><span class="highlight">Jacob K. Christopher*</span>, Jameson Sandler*, Thomas Hartvigsen, Ferdinando Fioretto</div>
-            <div class="publication-links">
-                <a href="https://arxiv.org/abs/2511.00606" target="_blank">Paper</a>
-            </div>
-        </li>
-    </ul>
-    <ul class="publication-list">
-        <li class="publication-item">
-            <div class="publication-title">Constrained Diffusion for Protein Design with Hard Structural Constraints</div>
-            <div class="publication-authors"><span class="highlight">Jacob K. Christopher</span>, Austin Seamann, Jingyi Cui, Sagar Khare, Ferdinando Fioretto</div>
-            <div class="publication-links">
-                <a href="https://arxiv.org/abs/2510.14989" target="_blank">Paper</a>
-            </div>
-        </li>
-    </ul>
     <ul class="publication-list">
         <li class="publication-item">
             <div class="publication-title">Analyzing and Enhancing the Backward-Pass Convergence of Unrolled Optimization</div>
