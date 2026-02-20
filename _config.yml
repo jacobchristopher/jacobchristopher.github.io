@@ -3,7 +3,7 @@ title: Jacob Christopher
 logo: /assets/img/headshot_circle.png
 #description: >
 #  [Google Scholar](https://scholar.google.com/citations?user=z_PoUQAAAAJ&hl=en) | 
-#  [LinkedIn](https://www.linkedin.com/in/jacob-christopher-834a02239/) | 
+#  [LinkedIn](https://www.linkedin.com/in/jacob-k-christopher-834a02239/) | 
 #  [Email](mailto:csk4sr@virginia.edu)
 description: >
   Ph.D. Student in Computer Science at the University of Virginia
@@ -27,7 +27,7 @@ social_links:
     url: https://scholar.google.com/citations?user=z_PoUQAAAAJ&hl=en
     icon: fa-graduation-cap
   - name: LinkedIn
-    url: https://www.linkedin.com/in/jacob-christopher-834a02239/
+    url: https://www.linkedin.com/in/jacob-k-christopher-834a02239/
     icon: fa-linkedin
   - name: Email
     url: mailto:csk4sr@virginia.edu
