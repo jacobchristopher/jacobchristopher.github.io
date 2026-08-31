@@ -25,7 +25,7 @@ title: Home
 <div class="profile-grid">
 <div class="section">
     <h2 class="section-title">About Me</h2>
-    <p>I am a Ph.D. candidate in Computer Science at the <strong>University of Virginia</strong>, advised by Dr. Ferdinando Fioretto. My research develops generative models that satisfy hard constraints arising in scientific and engineering applications. I combine diffusion and flow-based models with mathematical optimization to improve the reliability, controllability, and efficiency of generative AI. My work spans protein and molecular design, multi-robot planning, physical systems, and accelerated language generation.</p>
+    <p>I am a Ph.D. candidate in Computer Science at the University of Virginia, advised by Dr. Ferdinando Fioretto. My research develops generative models that satisfy hard constraints arising in scientific and engineering applications. I combine diffusion and flow-based models with mathematical optimization to improve the reliability, controllability, and efficiency of generative AI. My work spans protein and molecular design, multi-robot planning, physical systems, and accelerated language generation.</p>
 </div>
 
 <div class="section">
