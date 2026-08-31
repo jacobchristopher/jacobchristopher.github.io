@@ -8,7 +8,7 @@ title: Home
         <div class="hero-text">
             <h1>Jacob K. Christopher</h1>
             <p class="subtitle">Ph.D. Candidate in Computer Science</p>
-            <p class="focus">Constrained Generative Modeling <span aria-hidden="true">·</span> AI for Science and Engineering <span aria-hidden="true">·</span> Efficient Generation</p>
+            <!-- <p class="focus">Constrained Generative Modeling <span aria-hidden="true">·</span> AI for Science and Engineering <span aria-hidden="true">·</span> Efficient Generation</p> -->
             <div class="hero-actions">
                 <a class="button button-primary" href="{{ '/publications' | relative_url }}">View publications</a>
                 <a class="button button-secondary" href="{{ '/assets/resume.pdf' | relative_url }}">Download CV <span aria-hidden="true">↓</span></a>

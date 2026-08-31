@@ -106,7 +106,7 @@ title: CV
     </div>
 </div>
 
-<div class="section">
+<!-- <div class="section">
     <h2 class="section-title">Selected Honors and Achievements</h2>
     <div class="cv-section">
         <ul class="cv-details">
@@ -118,4 +118,4 @@ title: CV
                 Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion</li>
         </ul>
     </div>
-</div>
+</div> -->
