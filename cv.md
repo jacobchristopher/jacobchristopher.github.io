@@ -48,7 +48,7 @@ title: CV
             <p class="cv-subtitle">Research Scientist Intern (Core ML)</p>
             <p class="cv-date">June 2026 - August 2026</p>
             <ul class="cv-details">
-                <li><strong>Mentors:</strong>Nolan Dey, Joel Hestness</li>
+                <li><strong>Mentors:</strong> Nolan Dey, Joel Hestness</li>
                 <li>Researching and developing new methods for accelerating LLM inference.</li>
             </ul>
         </div>
