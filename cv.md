@@ -49,7 +49,7 @@ title: CV
             <p class="cv-date">June 2026 - August 2026</p>
             <ul class="cv-details">
                 <li><strong>Mentors:</strong> Nolan Dey, Joel Hestness</li>
-                <li>Researching and developing new methods for accelerating LLM inference.</li>
+                <li>Researching and developing next generation methods for accelerating LLM inference with the support of Cerebras state-of-the-art hardware and inference stack.</li>
             </ul>
         </div>
         
