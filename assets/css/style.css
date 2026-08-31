@@ -128,13 +128,7 @@ a:focus-visible { border-radius: 3px; outline: 3px solid rgba(23, 107, 85, 0.25)
     position: relative;
 }
 .hero::before {
-    background-image: linear-gradient(rgba(23, 34, 29, 0.025) 1px, transparent 1px), linear-gradient(90deg, rgba(23, 34, 29, 0.025) 1px, transparent 1px);
-    background-size: 32px 32px;
-    content: "";
-    inset: 0;
-    mask-image: linear-gradient(to right, transparent 35%, #000);
-    pointer-events: none;
-    position: absolute;
+    display: none;
 }
 .hero-content {
     align-items: center;
@@ -167,8 +161,18 @@ a:focus-visible { border-radius: 3px; outline: 3px solid rgba(23, 107, 85, 0.25)
 .button-secondary { border-color: #aab4ae; color: var(--ink); }
 .button-secondary:hover { border-color: var(--ink); color: var(--ink); }
 .hero-image { position: relative; }
-.portrait-frame { background: var(--paper); border: 1px solid var(--line); box-shadow: 16px 16px 0 #e8ece9; padding: 8px; transform: rotate(1deg); }
-.headshot { aspect-ratio: 1; display: block; filter: saturate(0.85) contrast(1.02); object-fit: cover; width: 100%; }
+.portrait-frame {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 3px;
+    overflow: hidden;
+}
+.headshot {
+    aspect-ratio: 1;
+    display: block;
+    object-fit: cover;
+    width: 100%;
+}
 .profile-grid { align-items: start; display: grid; gap: 64px; grid-template-columns: repeat(2, minmax(0, 1fr)); }
 .profile-grid .section { margin: 68px 0 18px; }
 .profile-grid .section > ul { display: grid; gap: 18px; list-style: none; }
@@ -263,7 +267,6 @@ a:focus-visible { border-radius: 3px; outline: 3px solid rgba(23, 107, 85, 0.25)
     .hero { padding: 36px 26px 44px; }
     .hero-content { display: flex; flex-direction: column-reverse; gap: 34px; }
     .hero-image { align-self: flex-start; width: 138px; }
-    .portrait-frame { box-shadow: 10px 10px 0 #e8ece9; padding: 5px; }
     .hero h1 { font-size: clamp(2.65rem, 14vw, 3.7rem); }
     .hero-actions { align-items: stretch; flex-direction: column; }
     .section { margin: 50px 0; }
