@@ -118,13 +118,13 @@ a:focus-visible { border-radius: 3px; outline: 3px solid rgba(23, 107, 85, 0.25)
 
 /* Home */
 .hero {
-    background: var(--surface);
-    border: 1px solid var(--line);
-    border-radius: 4px;
-    box-shadow: var(--shadow-sm);
+    background: transparent;
+    border-bottom: 1px solid var(--line);
+    border-radius: 0;
+    box-shadow: none;
     color: var(--ink);
-    overflow: hidden;
-    padding: clamp(40px, 7vw, 72px);
+    overflow: visible;
+    padding: 20px 0 58px;
     position: relative;
 }
 .hero::before {
@@ -133,38 +133,38 @@ a:focus-visible { border-radius: 3px; outline: 3px solid rgba(23, 107, 85, 0.25)
 .hero-content {
     align-items: center;
     display: grid;
-    gap: clamp(40px, 8vw, 88px);
-    grid-template-columns: minmax(0, 1fr) minmax(190px, 270px);
+    gap: clamp(48px, 9vw, 96px);
+    grid-template-columns: minmax(0, 1fr) 220px;
     position: relative;
 }
 .eyebrow { color: var(--accent); font-size: 0.72rem; font-weight: 700; letter-spacing: 0.16em; margin-bottom: 12px; text-transform: uppercase; }
-.hero h1 { color: var(--ink); font-family: var(--serif); font-size: clamp(3rem, 7vw, 5rem); letter-spacing: -0.035em; line-height: 0.98; }
+.hero h1 { color: var(--ink); font-family: var(--serif); font-size: clamp(2.75rem, 6vw, 4.25rem); letter-spacing: -0.035em; line-height: 1; }
 .hero .subtitle { color: var(--ink); font-family: var(--serif); font-size: clamp(1.2rem, 2.5vw, 1.55rem); margin-top: 18px; }
 .hero .focus { color: var(--ink-soft); font-size: 0.88rem; letter-spacing: 0.01em; margin-top: 13px; max-width: 52ch; }
 .hero .focus span { color: #9aa69f; margin: 0 5px; }
 .hero-actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 30px; }
 .button {
-    border: 1px solid transparent;
-    border-radius: 3px;
+    border: 0;
+    border-bottom: 1px solid currentColor;
+    border-radius: 0;
     display: inline-flex;
     font-size: 0.78rem;
     font-weight: 700;
     justify-content: center;
     letter-spacing: 0.025em;
-    padding: 10px 16px;
+    padding: 0 0 3px;
     text-decoration: none;
-    transition: background 160ms ease, border-color 160ms ease, color 160ms ease, transform 160ms ease;
+    transition: color 160ms ease;
 }
-.button:hover { transform: translateY(-1px); }
-.button-primary { background: var(--ink); color: var(--surface); }
-.button-primary:hover { background: #2c3832; color: var(--surface); }
-.button-secondary { border-color: #aab4ae; color: var(--ink); }
-.button-secondary:hover { border-color: var(--ink); color: var(--ink); }
+.button-primary { background: transparent; color: var(--accent); }
+.button-primary:hover { background: transparent; color: var(--accent-dark); }
+.button-secondary { color: var(--ink-soft); }
+.button-secondary:hover { color: var(--ink); }
 .hero-image { position: relative; }
 .portrait-frame {
-    background: var(--surface);
+    background: transparent;
     border: 1px solid var(--line);
-    border-radius: 3px;
+    border-radius: 2px;
     overflow: hidden;
 }
 .headshot {
@@ -334,7 +334,7 @@ a:focus-visible { border-radius: 3px; outline: 3px solid rgba(23, 107, 85, 0.25)
     .nav-container { grid-template-columns: 1fr auto; min-height: 68px; }
     .nav-links { grid-column: 1 / -1; grid-row: 2; height: 42px; justify-content: center; }
     .nav-social { grid-column: 2; grid-row: 1; }
-    .hero-content { gap: 44px; grid-template-columns: minmax(0, 1fr) 190px; }
+    .hero-content { gap: 52px; grid-template-columns: minmax(0, 1fr) 190px; }
     .profile-grid { gap: 8px; grid-template-columns: 1fr; }
     .highlights-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
     .featured-grid { grid-template-columns: 1fr; }
@@ -350,11 +350,11 @@ a:focus-visible { border-radius: 3px; outline: 3px solid rgba(23, 107, 85, 0.25)
     .nav-container { padding: 0 18px; }
     .nav-links { gap: 32px; }
     .main-content { padding: 30px 18px 54px; }
-    .hero { padding: 36px 26px 44px; }
+    .hero { padding: 12px 0 42px; }
     .hero-content { display: flex; flex-direction: column-reverse; gap: 34px; }
     .hero-image { align-self: flex-start; width: 138px; }
     .hero h1 { font-size: clamp(2.65rem, 14vw, 3.7rem); }
-    .hero-actions { align-items: stretch; flex-direction: column; }
+    .hero-actions { align-items: flex-start; flex-direction: row; }
     .section { margin: 50px 0; }
     .section-title { margin-bottom: 22px; }
     .section-title::after { margin-left: 14px; }
