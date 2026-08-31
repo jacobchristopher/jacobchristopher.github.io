@@ -5,6 +5,7 @@ title: Publications
 
 <div class="section">
     <h2 class="section-title">Conference Publications</h2>
+    <p class="publication-note"><sup>*</sup> Equal contribution.</p>
     <ul class="publication-list">
         <li class="publication-item">
             <div class="publication-title">SpecDiff-2: Scaling Diffusion Drafter Alignment For Faster Speculative Decoding</div>
