@@ -6,7 +6,7 @@ title: Home
 <div class="hero">
     <div class="hero-content">
         <div class="hero-text">
-            <h1>Jacob Christopher</h1>
+            <h2>Jacob K. Christopher</h2>
             <p class="subtitle">PhD Candidate in Computer Science</p>
             <p class="focus">Generative AI for Science <span aria-hidden="true">·</span> Responsible AI <span aria-hidden="true">·</span> Differentiable Optimization</p>
             <div class="hero-actions">
