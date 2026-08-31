@@ -39,7 +39,7 @@ title: CV
             <p class="cv-date">Aug. 2023–Present</p>
             <ul class="cv-details">
                 <li><strong>Mentor:</strong> Dr. Ferdinando Fioretto</li>
-                <li>Researching generative AI and optimization, with emphasis on scalable diffusion methods for physics-aware models. This work led to top-tier publications (NeurIPS 2024, ICML 2025, NeurIPS 2025 Spotlight, ICLR 2026).</li>
+                <li>Researching generative AI and optimization, with emphasis on scalable diffusion methods for physics-aware models. This work jas led to publications at major AI venues (NeurIPS 2024, ICML 2025, NeurIPS 2025 Spotlight, ICLR 2026).</li>
             </ul>
         </div>
         
@@ -88,8 +88,7 @@ title: CV
             <p class="cv-subtitle">Software Engineer Co-op</p>
             <p class="cv-date">Aug. 2021–May 2022</p>
             <ul class="cv-details">
-                <li>Developed a web-based survey delivery application as part of a SCRUM team.</li>
-                <li>Designed and implemented a comprehensive API test suite in Python.</li>
+                <li>Developed a web-based survey delivery application as part of a SCRUM team. Designed and implemented a comprehensive API test suite in Python.</li>
                 <li><strong>Tools used:</strong> Angular, HTML5, Kotlin, MongoDB, AWS.</li>
             </ul>
         </div>
