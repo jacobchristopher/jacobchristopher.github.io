@@ -33,8 +33,7 @@ title: Home
     <ul>
         <li><strong>Constrained generative modeling</strong> Developing diffusion and flow-based models that satisfy discrete, structural, and physical constraints.</li>
         <li><strong>AI for science and engineering</strong> Applying constraint-aware generation to protein design, molecular discovery, physical systems, and robotics.</li>
-        <li><strong>Optimization for machine learning</strong> Integrating mathematical optimization into generative models and studying reliable differentiation through optimization procedures.</li>
-        <li><strong>Efficient generation</strong> Designing speculative decoding methods that reduce the computational cost of language-model inference.</li>
+        <li><strong>Speculative decoding with dLLMs</strong> Designing diffusion language models for faster speculative decoding.</li>
     </ul>
 </div>
 </div>
