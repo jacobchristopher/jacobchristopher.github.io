@@ -83,7 +83,7 @@ title: CV
             </ul>
         </div>
 
-        <div class="cv-item">
+        <!-- <div class="cv-item">
             <h3 class="cv-title">Solü Technology Partners</h3>
             <p class="cv-subtitle">Software Engineer Co-op</p>
             <p class="cv-date">Aug. 2021–May 2022</p>
@@ -102,7 +102,7 @@ title: CV
                 <li><strong>Tools used:</strong> ASP.NET Core, SQL Server, JavaScript.</li>
             </ul>
         </div>
-    </div>
+    </div> -->
 </div>
 
 <!-- <div class="section">
