@@ -110,7 +110,7 @@ title: Publications
     <ul class="publication-list">
         <li class="publication-item">
             <div class="publication-title">Constrained Molecular Generation with Discrete Diffusion for Drug Discovery</div>
-            <div class="publication-authors"><span class="highlight">Jacob K. Christopher</span>, Michael Cardei, Thomas Hartvigsen, Bhavya Kailkhura, Ferdinando Fioretto</div>
+            <div class="publication-authors"><span class="highlight">Jacob K. Christopher*</span>, Michael Cardei*, Thomas Hartvigsen, Bhavya Kailkhura, Ferdinando Fioretto</div>
             <div class="publication-venue">Workshop on AI Virtual Cells and Instruments (NeurIPS 2025)</div>
             <div class="publication-award">Best Student Paper</div>
             <div class="publication-links">
