@@ -34,7 +34,7 @@ title: CV
     <div class="cv-section">
 
         <div class="cv-item">
-            <h3 class="cv-title">Department of Computer Science, University of Virginia</h3>
+            <h3 class="cv-title">University of Virginia</h3>
             <p class="cv-subtitle">Graduate Research Assistant</p>
             <p class="cv-date">Aug. 2023–Present</p>
             <ul class="cv-details">
@@ -74,7 +74,7 @@ title: CV
         </div>
 
         <div class="cv-item">
-            <h3 class="cv-title">Department of Computer Science, Syracuse University</h3>
+            <h3 class="cv-title">Syracuse University</h3>
             <p class="cv-subtitle">Graduate Research Assistant</p>
             <p class="cv-date">Jan. 2023–Jul. 2023</p>
             <ul class="cv-details">
