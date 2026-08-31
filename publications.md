@@ -68,6 +68,8 @@ title: Publications
             <div class="publication-venue">ICML 2025</div>
             <div class="publication-links">
                 <a href="https://arxiv.org/abs/2502.03607" target="_blank">Paper</a>
+                <span class="separator">|</span>
+                <a href="https://github.com/RAISELab-atUVA/Diffusion-MRMP" target="_blank">Code</a>
             </div>
         </li>
         
@@ -125,6 +127,8 @@ title: Publications
             <div class="publication-award">ORAL</div>
             <div class="publication-links">
                 <a href="https://arxiv.org/abs/2412.17993" target="_blank">Paper</a>
+                <span class="separator">|</span>
+                <a href="https://github.com/RAISELab-atUVA/Diffusion-MRMP" target="_blank">Code</a>
             </div>
         </li>
 
