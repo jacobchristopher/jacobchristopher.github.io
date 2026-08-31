@@ -39,7 +39,7 @@ title: CV
             <p class="cv-date">Aug 2023 - Present</p>
             <ul class="cv-details">
                 <li><strong>Mentor:</strong> Dr. Ferdinando Fioretto</li>
-                <li>Researching generative AI and optimization, with emphasis on scalable diffusion methods for physics-aware models. This work led to top-tier publications (NeurIPS 2024, ICML 2025, NeurIPS 2025 Spotlight).</li>
+                <li>Researching generative AI and optimization, with emphasis on scalable diffusion methods for physics-aware models. This work led to top-tier publications (NeurIPS 2024, ICML 2025, NeurIPS 2025 Spotlight, ICLR 2026).</li>
             </ul>
         </div>
         
