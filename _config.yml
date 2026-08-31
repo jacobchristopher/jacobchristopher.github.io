@@ -9,7 +9,7 @@ description: >
   Ph.D. Candidate in Computer Science at the University of Virginia
   Focus Areas: Generative AI, Responsible AI, Differentiable Optimization
 show_download: false
-favicon: /assets/img/favicon-32x32.png
+favicon: /assets/img/favicon.svg
 
 # Build settings
 markdown: kramdown
