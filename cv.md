@@ -32,6 +32,15 @@ title: CV
 <div class="section">
     <h2 class="section-title">Experience</h2>
     <div class="cv-section">
+        <div class="cv-item">
+            <h3 class="cv-title">Cerebras</h3>
+            <p class="cv-subtitle">Research Scientist Intern (Core ML)</p>
+            <p class="cv-date">June 2026 - August 2026</p>
+            <ul class="cv-details">
+                <li><strong>Mentors:</strong>Nolan Dey, Joel Hestness</li>
+                <li>Researching and developing new methods for accelerating LLM inference.</li>
+            </ul>
+        </div>
         
         <div class="cv-item">
             <h3 class="cv-title">NASA Langley Research Center</h3>
