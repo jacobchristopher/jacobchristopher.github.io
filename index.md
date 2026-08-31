@@ -6,16 +6,24 @@ title: Home
 <div class="hero">
     <div class="hero-content">
         <div class="hero-text">
+            <p class="eyebrow">Machine Learning Researcher</p>
             <h1>Jacob Christopher</h1>
             <p class="subtitle">PhD Candidate in Computer Science</p>
-            <p class="focus"><strong>Focus: Generative AI for Science, Responsible AI, Differentiable Optimization</strong></p>
+            <p class="focus">Generative AI for Science <span aria-hidden="true">·</span> Responsible AI <span aria-hidden="true">·</span> Differentiable Optimization</p>
+            <div class="hero-actions">
+                <a class="button button-primary" href="{{ '/publications' | relative_url }}">View publications</a>
+                <a class="button button-secondary" href="{{ '/assets/resume.pdf' | relative_url }}">Download CV <span aria-hidden="true">↓</span></a>
+            </div>
         </div>
         <div class="hero-image">
-            <img src="assets/img/headshot_circle.png" alt="Jacob Christopher" class="headshot">
+            <div class="portrait-frame">
+                <img src="assets/img/headshot.jpg" alt="Portrait of Jacob Christopher" class="headshot">
+            </div>
         </div>
     </div>
 </div>
 
+<div class="profile-grid">
 <div class="section">
     <h2 class="section-title">About Me</h2>
     <p>I am a Ph.D. student in Computer Science at the <strong>University of Virginia</strong>, working under the guidance of Dr. Ferdinando Fioretto. My research focuses on developing innovative approaches in generative AI, responsible AI, and differentiable optimization. I'm particularly interested in creating compliant AI systems for scientific and engineering applications.</p>
@@ -28,6 +36,7 @@ title: Home
         <li><strong>Responsible AI:</strong> Ensuring AI systems are ethical, transparent, and aligned with human values by providing formal guarantees as to compliance with these values.</li>
         <li><strong>Differentiable Optimization:</strong> Bridging the gap between machine learning and mathematical optimization with fundamental approaches.</li>
     </ul>
+</div>
 </div>
 
 <div class="section">
