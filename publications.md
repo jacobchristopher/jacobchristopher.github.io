@@ -106,7 +106,7 @@ title: Publications
 </div>
 
 <div class="section">
-    <h2 class="section-title">Workshop Publications</h2>
+    <h2 class="section-title">Highlighted Workshop Publications</h2>
     <ul class="publication-list">
         <li class="publication-item">
             <div class="publication-title">Constrained Molecular Generation with Discrete Diffusion for Drug Discovery</div>
