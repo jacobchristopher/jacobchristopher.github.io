@@ -109,6 +109,16 @@ title: Publications
     <h2 class="section-title">Workshop Publications</h2>
     <ul class="publication-list">
         <li class="publication-item">
+            <div class="publication-title">Constrained Molecular Generation with Discrete Diffusion for Drug Discovery</div>
+            <div class="publication-authors"><span class="highlight">Jacob K. Christopher</span>, Michael Cardei, Thomas Hartvigsen, Bhavya Kailkhura, Ferdinando Fioretto</div>
+            <div class="publication-venue">Workshop on AI Virtual Cells and Instruments (NeurIPS 2025)</div>
+            <div class="publication-award">Best Student Paper</div>
+            <div class="publication-links">
+                <a href="https://ai4d3.github.io/2025/papers/18_Constrained_Molecular_Gener.pdf" target="_blank">Paper</a>
+            </div>
+        </li>
+
+        <li class="publication-item">
             <div class="publication-title">Multi-Agent Path Finding in Continuous Spaces with Projected Diffusion Models</div>
             <div class="publication-authors">Jinhao Liang, <span class="highlight">Jacob K. Christopher</span>, Sven Koenig, Ferdinando Fioretto</div>
             <div class="publication-venue">The 6th International Workshop on Multi-Agent Path Finding (AAAI 2025)</div>
@@ -132,29 +142,6 @@ title: Publications
           </div>
       </li>
 
-        <li class="publication-item">
-            <div class="publication-title">Speculative Diffusion Decoding for Accelerated Language Generation</div>
-            <div class="publication-authors"><span class="highlight">Jacob K. Christopher</span>, Brian R. Bartoldson, Tal Ben-Nun, Michael Cardei, Bhavya Kailkhura, Ferdinando Fioretto</div>
-            <div class="publication-venue">Efficient Natural Language and Speech Processing Workshop (NeurIPS 2024)</div>
-            <div class="publication-links">
-                <a href="https://neurips2024-enlsp.github.io/papers/paper_68.pdf" target="_blank">Paper</a>
-                <span class="separator">|</span>
-                <a href="https://neurips.cc/virtual/2024/poster/106484" target="_blank">Poster</a>
-            </div>
-        </li>
-
-        <li class="publication-item">
-            <div class="publication-title">Constrained Synthesis with Projected Diffusion Models</div>
-            <div class="publication-authors"><span class="highlight">Jacob K. Christopher</span>, Stephen Baek, Ferdinando Fioretto</div>
-            <div class="publication-venue">Machine Learning and the Physical Sciences Workshop (NeurIPS 2024)</div>
-            <div class="publication-links">
-                <a href="https://arxiv.org/abs/2402.03559" target="_blank">Paper</a>
-                <span class="separator">|</span>
-                <a href="https://github.com/RAISELab-atUVA/Projected-Diffusion" target="_blank">Code</a>
-                <span class="separator">|</span>
-                <a href="https://neurips.cc/virtual/2024/poster/100112" target="_blank">Poster</a>
-            </div>
-        </li>
 
       </ul>
 </div>
