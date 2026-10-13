@@ -32,8 +32,8 @@ title: Home
     <h2 class="section-title">Research Interests</h2>
     <ul>
         <li><strong>Constrained generative modeling</strong> Developing diffusion and flow-based models that satisfy discrete, structural, and physical constraints.</li>
-        <li><strong>AI for science and engineering</strong> Applying constraint-aware generation to protein design, molecular discovery, physical systems, and robotics.</li>
-        <li><strong>Speculative decoding with dLLMs</strong> Designing diffusion language models for faster speculative decoding with parallel generation. My research was the <a href="https://arxiv.org/abs/2408.05636" target="_blank" rel="noopener noreferrer">first to propose dLLM draft models</a>, which are now being adopted at scale by models like DeepSeek-V4.</li>
+        <li><strong>AI for science and engineering</strong> Applying constraint-aware generation to protein design, molecular discovery, physical systems, and robotics. Our research is now being applied for real-world applications through collaboration with industry partners like <a href="https://openreview.net/forum?id=kDIc133oYt&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2026%2FWorkshop%2FAI4ChipDesign%2FAuthors%23your-submissions)" target="_blank" rel="noopener noreferrer">Arena Physica</a> and <a href="https://arxiv.org/abs/2605.12754" target="_blank" rel="noopener noreferrer">NASA Langley Research Center</a>.</li>
+        <li><strong>Speculative decoding with dLLMs</strong> Designing diffusion language models for faster speculative decoding with parallel generation. My research <a href="https://arxiv.org/abs/2408.05636" target="_blank" rel="noopener noreferrer">SpecDiff</a> was the first to propose dLLM draft models, which are now being adopted at scale by models like <a href="https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark" target="_blank" rel="noopener noreferrer">DeepSeek-V4-Pro-DSpark</a>.</li>
     </ul>
 </div>
 </div>
