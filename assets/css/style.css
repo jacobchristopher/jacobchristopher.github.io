@@ -318,6 +318,21 @@ a:focus-visible { border-radius: 3px; outline: 3px solid rgba(23, 107, 85, 0.25)
 .cv-details li { margin-bottom: 7px; }
 .cv-details li:last-child { margin-bottom: 0; }
 .cv-details strong { color: var(--ink); }
+.experience-section .cv-item {
+    column-gap: 24px;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+}
+.experience-section .cv-title { grid-column: 1; grid-row: 1; }
+.experience-section .cv-date {
+    grid-column: 2;
+    grid-row: 1;
+    justify-self: end;
+    padding-top: 2px;
+    white-space: nowrap;
+}
+.experience-section .cv-subtitle { grid-column: 1 / -1; grid-row: 2; }
+.experience-section .cv-details { grid-column: 1 / -1; grid-row: 3; }
 .page-cv > .section:last-child .cv-section { background: var(--surface); border: 1px solid var(--line); padding: 24px; }
 .page-cv > .section:last-child .cv-details { margin-top: 0; }
 .page-cv > .section:last-child .cv-details li { border-bottom: 1px solid var(--line); padding: 0 0 14px; }
@@ -359,6 +374,7 @@ a:focus-visible { border-radius: 3px; outline: 3px solid rgba(23, 107, 85, 0.25)
     .section-title { margin-bottom: 22px; }
     .section-title::after { margin-left: 14px; }
     .publication-item, .cv-item { padding: 19px 18px; }
+    .experience-section .cv-item { column-gap: 14px; }
     .highlights-grid { grid-template-columns: 1fr; }
     .update-item { padding-right: 4px; }
     .footer-content { align-items: flex-start; flex-direction: column; gap: 9px; }

@@ -29,7 +29,7 @@ title: CV
     </div>
 </div>
 
-<div class="section">
+<div class="section experience-section">
     <h2 class="section-title">Experience</h2>
     <div class="cv-section">
 
@@ -54,10 +54,10 @@ title: CV
         
         <div class="cv-item">
             <h3 class="cv-title">Cerebras</h3>
-            <p class="cv-subtitle">Research Scientist Intern (Core ML)</p>
+            <p class="cv-subtitle">Research Scientist Intern</p>
             <p class="cv-date">Jun. 2026–Aug. 2026</p>
             <ul class="cv-details">
-                <li>Researching and developing next-generation methods for accelerating LLM inference with the support of Cerebras' state-of-the-art hardware and inference stack.</li>
+                <li>Researching and developing next-generation methods with the Core ML team for accelerating LLM inference with the support of Cerebras' state-of-the-art hardware and inference stack.</li>
             </ul>
         </div>
         
