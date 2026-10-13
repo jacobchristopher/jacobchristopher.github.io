@@ -33,13 +33,22 @@ title: CV
     <h2 class="section-title">Experience</h2>
     <div class="cv-section">
 
-        <div class="cv-item">
+        <!-- <div class="cv-item">
             <h3 class="cv-title">University of Virginia</h3>
             <p class="cv-subtitle">Graduate Research Assistant</p>
             <p class="cv-date">Aug. 2023–Present</p>
             <ul class="cv-details">
                 <li><strong>Mentor:</strong> Dr. Ferdinando Fioretto</li>
                 <li>Researching generative AI and optimization, with emphasis on scalable diffusion methods for physics-aware models. This work has led to publications at major AI venues (NeurIPS 2024, ICML 2025, NeurIPS 2025 Spotlight, ICLR 2026).</li>
+            </ul>
+        </div> -->
+
+        <div class="cv-item">
+            <h3 class="cv-title">NVIDIA</h3>
+            <p class="cv-subtitle">PhD Research Intern</p>
+            <p class="cv-date">Sept. 2026–Present</p>
+            <ul class="cv-details">
+                <li>Graduate researcher with the Applied Deep Learning Research (ADLR) team, with a focus on diffusion language models and speculative decoding.</li>
             </ul>
         </div>
         
@@ -48,7 +57,6 @@ title: CV
             <p class="cv-subtitle">Research Scientist Intern (Core ML)</p>
             <p class="cv-date">Jun. 2026–Aug. 2026</p>
             <ul class="cv-details">
-                <li><strong>Mentors:</strong> Nolan Dey, Joel Hestness</li>
                 <li>Researching and developing next-generation methods for accelerating LLM inference with the support of Cerebras' state-of-the-art hardware and inference stack.</li>
             </ul>
         </div>
@@ -73,7 +81,7 @@ title: CV
             </ul>
         </div>
 
-        <div class="cv-item">
+        <!-- <div class="cv-item">
             <h3 class="cv-title">Syracuse University</h3>
             <p class="cv-subtitle">Graduate Research Assistant</p>
             <p class="cv-date">Jan. 2023–Jul. 2023</p>
@@ -81,7 +89,7 @@ title: CV
                 <li><strong>Mentor:</strong> Dr. Ferdinando Fioretto</li>
                 <li>Initiated research directions in differentiable optimization, leading to the work established while at UVA.</li>
             </ul>
-        </div>
+        </div> -->
 
         <!-- <div class="cv-item">
             <h3 class="cv-title">Solü Technology Partners</h3>
