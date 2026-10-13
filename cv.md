@@ -66,7 +66,6 @@ title: CV
             <p class="cv-subtitle">AI Research Associate</p>
             <p class="cv-date">Oct. 2025–Jan. 2026</p>
             <ul class="cv-details">
-                <li><strong>Mentor:</strong> Dr. James Warner</li>
                 <li>Pioneering constrained generative modeling for wind velocity modeling, integrating physics-informed constraints into diffusion models to improve reliability and scalability of AI for real-world deployment.</li>
             </ul>
         </div>
@@ -76,7 +75,6 @@ title: CV
             <p class="cv-subtitle">Graduate Researcher</p>
             <p class="cv-date">May 2024–Aug. 2024</p>
             <ul class="cv-details">
-                <li><strong>Mentors:</strong> Dr. Bhavya Kailkhura, Dr. Brian R. Bartoldson</li>
                 <li>Designed discrete diffusion approaches to improve controllability and accelerate natural language generation. Collaboration with national lab scientists resulted in publications at NAACL 2025 (Oral) and NeurIPS 2025.</li>
             </ul>
         </div>
