@@ -33,7 +33,7 @@ title: Home
     <ul>
         <li><strong>Constrained generative modeling</strong> Developing diffusion and flow-based models that satisfy discrete, structural, and physical constraints.</li>
         <li><strong>AI for science and engineering</strong> Applying constraint-aware generation to protein design, molecular discovery, physical systems, and robotics.</li>
-        <li><strong>Speculative decoding with dLLMs</strong> Designing diffusion language models for faster speculative decoding with parallel generation.</li>
+        <li><strong>Speculative decoding with dLLMs</strong> Designing diffusion language models for faster speculative decoding with parallel generation. My research was the <a href="https://arxiv.org/abs/2408.05636" target="_blank" rel="noopener noreferrer">first to propose dLLM draft models</a>, which are now being adopted at scale by models like DeepSeek-V4.</li>
     </ul>
 </div>
 </div>

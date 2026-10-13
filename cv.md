@@ -7,24 +7,33 @@ title: CV
     <h2 class="section-title">Education</h2>
     <div class="cv-section">
         <div class="cv-item">
-            <h3 class="cv-title">University of Virginia</h3>
-            <p class="cv-subtitle">Ph.D. in Computer Science</p>
-            <p class="cv-date">Aug. 2023–Present</p>
-            <p class="cv-location">Charlottesville, Virginia</p>
+            <div class="cv-logo"><img src="{{ '/assets/img/logos/uva.png' | relative_url }}" alt=""></div>
+            <div class="cv-entry">
+                <h3 class="cv-title">University of Virginia</h3>
+                <p class="cv-subtitle">Ph.D. in Computer Science</p>
+                <p class="cv-date">Aug. 2023–Present</p>
+                <p class="cv-location">Charlottesville, Virginia</p>
+            </div>
         </div>
 
         <div class="cv-item">
-            <h3 class="cv-title">Syracuse University</h3>
-            <p class="cv-subtitle">Ph.D. Track Master of Science</p>
-            <p class="cv-date">Aug. 2022–Jul. 2023</p>
-            <p class="cv-location">Syracuse, New York</p>
+            <div class="cv-logo"><img src="{{ '/assets/img/logos/syracuse.png' | relative_url }}" alt=""></div>
+            <div class="cv-entry">
+                <h3 class="cv-title">Syracuse University</h3>
+                <p class="cv-subtitle">Ph.D. Track Master of Science</p>
+                <p class="cv-date">Aug. 2022–Jul. 2023</p>
+                <p class="cv-location">Syracuse, New York</p>
+            </div>
         </div>
 
         <div class="cv-item">
-            <h3 class="cv-title">Gordon College</h3>
-            <p class="cv-subtitle">B.S. in Computer Science</p>
-            <p class="cv-date">Aug. 2019–May 2022</p>
-            <p class="cv-location">Wenham, Massachusetts</p>
+            <div class="cv-logo"><img src="{{ '/assets/img/logos/gordon.png' | relative_url }}" alt=""></div>
+            <div class="cv-entry">
+                <h3 class="cv-title">Gordon College</h3>
+                <p class="cv-subtitle">B.S. in Computer Science</p>
+                <p class="cv-date">Aug. 2019–May 2022</p>
+                <p class="cv-location">Wenham, Massachusetts</p>
+            </div>
         </div>
     </div>
 </div>
@@ -44,39 +53,51 @@ title: CV
         </div> -->
 
         <div class="cv-item">
-            <h3 class="cv-title">NVIDIA</h3>
-            <p class="cv-subtitle">PhD Research Intern</p>
-            <p class="cv-date">Sept. 2026–Present</p>
-            <ul class="cv-details">
-                <li>Graduate researcher with the Applied Deep Learning Research (ADLR) team, with a focus on diffusion language models and speculative decoding.</li>
-            </ul>
+            <div class="cv-logo"><img src="{{ '/assets/img/logos/nvidia.png' | relative_url }}" alt=""></div>
+            <div class="cv-entry">
+                <h3 class="cv-title">NVIDIA</h3>
+                <p class="cv-subtitle">PhD Research Intern</p>
+                <p class="cv-date">Sept. 2026–Present</p>
+                <ul class="cv-details">
+                    <li>Graduate researcher with the Applied Deep Learning Research (ADLR) team, with a focus on diffusion language models and speculative decoding.</li>
+                </ul>
+            </div>
         </div>
         
         <div class="cv-item">
-            <h3 class="cv-title">Cerebras</h3>
-            <p class="cv-subtitle">Research Scientist Intern</p>
-            <p class="cv-date">Jun. 2026–Aug. 2026</p>
-            <ul class="cv-details">
-                <li>Researching and developing next-generation methods with the Core ML team for accelerating LLM inference with the support of Cerebras' state-of-the-art hardware and inference stack.</li>
-            </ul>
+            <div class="cv-logo"><img src="{{ '/assets/img/logos/cerebras.png' | relative_url }}" alt=""></div>
+            <div class="cv-entry">
+                <h3 class="cv-title">Cerebras</h3>
+                <p class="cv-subtitle">Research Scientist Intern</p>
+                <p class="cv-date">Jun. 2026–Aug. 2026</p>
+                <ul class="cv-details">
+                    <li>Researching and developing next-generation methods with the Core ML team for accelerating LLM inference with the support of Cerebras' state-of-the-art hardware and inference stack.</li>
+                </ul>
+            </div>
         </div>
         
         <div class="cv-item">
-            <h3 class="cv-title">NASA Langley Research Center</h3>
-            <p class="cv-subtitle">AI Research Associate</p>
-            <p class="cv-date">Oct. 2025–Jan. 2026</p>
-            <ul class="cv-details">
-                <li>Pioneering constrained generative modeling for wind velocity modeling, integrating physics-informed constraints into diffusion models to improve reliability and scalability of AI for real-world deployment.</li>
-            </ul>
+            <div class="cv-logo"><img src="{{ '/assets/img/logos/nasa.png' | relative_url }}" alt=""></div>
+            <div class="cv-entry">
+                <h3 class="cv-title">NASA Langley Research Center</h3>
+                <p class="cv-subtitle">AI Research Associate</p>
+                <p class="cv-date">Oct. 2025–Jan. 2026</p>
+                <ul class="cv-details">
+                    <li>Pioneering constrained generative modeling for wind velocity modeling, integrating physics-informed constraints into diffusion models to improve reliability and scalability of AI for real-world deployment.</li>
+                </ul>
+            </div>
         </div>
 
         <div class="cv-item">
-            <h3 class="cv-title">Lawrence Livermore National Laboratory</h3>
-            <p class="cv-subtitle">Graduate Researcher</p>
-            <p class="cv-date">May 2024–Aug. 2024</p>
-            <ul class="cv-details">
-                <li>Designed discrete diffusion approaches to improve controllability and accelerate natural language generation. Collaboration with national lab scientists resulted in publications at NAACL 2025 (Oral) and NeurIPS 2025.</li>
-            </ul>
+            <div class="cv-logo"><img src="{{ '/assets/img/logos/llnl.jpg' | relative_url }}" alt=""></div>
+            <div class="cv-entry">
+                <h3 class="cv-title">Lawrence Livermore National Laboratory</h3>
+                <p class="cv-subtitle">Graduate Researcher</p>
+                <p class="cv-date">May 2024–Aug. 2024</p>
+                <ul class="cv-details">
+                    <li>Designed discrete diffusion approaches to improve controllability and accelerate natural language generation. Collaboration with national lab scientists resulted in publications at NAACL 2025 (Oral) and NeurIPS 2025.</li>
+                </ul>
+            </div>
         </div>
 
         <!-- <div class="cv-item">
@@ -109,6 +130,7 @@ title: CV
             </ul>
         </div>
     </div> -->
+    </div>
 </div>
 
 <!-- <div class="section">
