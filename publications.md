@@ -154,6 +154,13 @@ title: Publications
     <h2 class="section-title">Preprints</h2>
     <ul class="publication-list">
         <li class="publication-item">
+            <div class="publication-title">Simulator-Refined Diffusion for Radio-Frequency Inverse Design</div>
+            <div class="publication-authors">Jinhao Liang, <span class="highlight">Jacob K. Christopher</span>, Michael Frei, Tommaso Dreossi, Ferdinando Fioretto</div>
+            <div class="publication-links">
+                <a href="https://arxiv.org/abs/2609.38363" target="_blank">Paper</a>
+            </div>
+        </li>
+        <li class="publication-item">
             <div class="publication-title">Constraint-Aware Flow Matching: Decision Aligned End-to-End Training for Constrained Sampling</div>
             <div class="publication-authors"><span class="highlight">Jacob K. Christopher</span>, James E. Warner, Ferdinando Fioretto</div>
             <div class="publication-links">
