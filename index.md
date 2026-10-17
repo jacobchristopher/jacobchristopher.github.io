@@ -16,7 +16,7 @@ title: Home
         </div>
         <div class="hero-image">
             <div class="portrait-frame">
-                <img src="assets/img/headshot.jpg" alt="Portrait of Jacob Christopher" class="headshot">
+                <img src="assets/img/headshot.png" alt="Portrait of Jacob Christopher" class="headshot">
             </div>
         </div>
     </div>
